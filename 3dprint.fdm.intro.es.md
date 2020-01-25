@@ -1,6 +1,6 @@
 
 
-## Introducción a printers FDM
+## Introducci&oacute;n a printers FDM
 
 #### Estas diapositivas: [slides.cuban.tech/3dprint.fdm.intro.html](http://slides.cuban.tech/3dprint.fdm.intro.html)
 
@@ -29,21 +29,79 @@ Sitios de eventos CubanTech
 
 ---
 
-# Muchas gracias a nuestro anfitrión
+# Muchas gracias a nuestro anfitri&oacute;n
 
 ---
 
-## So, 3D printing
+## Entonces, impresi&oacute;n 3D
 
-¿Quiénes han escuchado antes?
+¿Qui&eacute;nes han escuchado antes?
 
-¿Quiénes tienen experiencia previa?
+¿Qui&eacute;nes tienen experiencia previa?
 
 ¿Para algo serio?
 
-¿Algún proyeco actual?
+¿Alg&uacute;n proyecto actual?
 
 ---
+
+## ¿Qu&eacute; es FDM?
+
+- Fused Deposition Modelling (FDM)
+- Tambi&eacute;n conocido como FFF
+  * Fused Filament Fabrication
+
+---
+
+## FDM - Proceso de impresi&oacute;n
+
+<div style="background-color: #FFFFFF">
+![Proceso impresi&oacute;n FDM](img/3dprint.fdm.diagram.png)
+</div>
+
+- **a)** Filamento ude material pl&aacute;stico
+
+---
+
+## FDM - Proceso de impresi&oacute;n
+
+<div style="background-color: #FFFFFF">
+![Proceso impresi&oacute;n FDM](img/3dprint.fdm.diagram.png)
+</div>
+
+- **b)** Parte movible caliente
+  * derrite, extruye, deposita
+
+---
+
+## FDM - Proceso de impresi&oacute;n
+
+<div style="background-color: #FFFFFF">
+![Proceso impresi&oacute;n FDM](img/3dprint.fdm.diagram.png)
+</div>
+
+- **c)** Figura construida capa a capa
+
+---
+
+## FDM - Proceso de impresi&oacute;n
+
+<div style="background-color: #FFFFFF">
+![Proceso impresi&oacute;n FDM](img/3dprint.fdm.diagram.png)
+</div>
+
+- **e)** Base movible.
+  * Posici&oacute;n para cada capa
+
+---
+
+## FDM - Proceso de impresi&oacute;n
+
+<div style="background-color: #FFFFFF">
+![Proceso impresi&oacute;n FDM](img/3dprint.fdm.diagram.png)
+</div>
+
+- **d)** Estructuras de soporte
 
 ---
 
