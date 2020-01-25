@@ -45,7 +45,7 @@ Sitios de eventos CubanTech
 ### Procesos
 
 - Extrusi&oacute;n de material (Material extrusion)
-- Fusi&oacute;n de cubierta de polvo (Powder bed fusion)
+- Fusi&oacute;n de capas de polvo (Powder bed fusion)
 - Binder jetting
 - Estereolitograf&iacute;a
 - Litograf&iacute; axial computarizada
@@ -123,8 +123,50 @@ Sitios de eventos CubanTech
 
 ---
 
+## RepRap - Historia
+
+- Primera impresora 3D de bajo costo
+- C&oacute;digo abierto
+- Comenz&oacute; la revoluci&oacute;n maker
+- M&aacute;s usado a nivel mundial
+
+---
+
+## RepRap - Cuota de mercado
+
+<div style="background-color: #ffffff">
+![Mercado impresoras 3D](img/3Dprint.market.png)
+</div>
+
+###### fuente : Moilanen, J. & Vad&eacute;n, T.: Manufacturing in motion: first survey on the 3D printing community
+###### [Statistical Studies of Peer Production](https://www.este.it/images/file-pdf/3D-Printing_Survey2013.pdf)
+
+---
+
+## ¿Qu&eacute; es RepRap?
+
+- M&aacute;quina de manufactura autoreplicante
+- Kit de piezas pl&aacute;sticas
+- Imprimir otra RepRap para un amigo
+
+---
+
+## RepRap - Prusa i3
+
+![Prusa i3](img/3dprinter.prusa.jpg)
+
+###### Cartesian-XZ-head
+
+---
+
+## RepRap - Genealog&iacute;a
+
+![Línea de tiempo RepRap](img/3dprinter.reprap.family.png)
+
+---
+
 ## Resumiendo
 
 - ¡Gracias por participar!
-- Únanse a la comunidad: [t.me/CubanMakers](https://t.me/CubanMakers)
+- &Uacute;nanse a la comunidad: [t.me/CubanMakers](https://t.me/CubanMakers)
 
