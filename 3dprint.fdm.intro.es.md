@@ -45,6 +45,28 @@ Sitios de eventos CubanTech
 
 ---
 
+## Manufactura aditiva
+### Procesos
+
+- Extrusión de material (Material extrusion)
+- Fusión de cubierta de polvo (Powder bed fusion)
+- Binder jetting
+- Estereolitograf&iacute;a
+- Litograf&iacute; axial computarizada
+- Manufactura por adición de líquido
+- Laminado
+- Deposición por energización directa (DED)
+
+---
+
+## Extrusión de material
+
+- FDM / FFF
+- Robocasting
+- Fabricaci&oacute;n con filamento compuesto (CFF)
+
+---
+
 ## ¿Qu&eacute; es FDM?
 
 - Fused Deposition Modelling (FDM)
@@ -59,7 +81,7 @@ Sitios de eventos CubanTech
 ![Proceso impresi&oacute;n FDM](img/3dprint.fdm.diagram.png)
 </div>
 
-- **a)** Filamento ude material pl&aacute;stico
+- **a)** Filamento de material pl&aacute;stico
 
 ---
 
