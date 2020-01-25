@@ -12,12 +12,8 @@ SSID: cubantech
 
 Password: meet-ups
 
---
-
-## Autores
-
-- Abel Bajuelos
-- [Olemis Lang](https://linkedin.com/in/olemis)
+###### Abel Bajuelos
+###### [Olemis Lang](https://linkedin.com/in/olemis)
 
 ---
 
@@ -48,18 +44,18 @@ Sitios de eventos CubanTech
 ## Manufactura aditiva
 ### Procesos
 
-- Extrusión de material (Material extrusion)
-- Fusión de cubierta de polvo (Powder bed fusion)
+- Extrusi&oacute;n de material (Material extrusion)
+- Fusi&oacute;n de cubierta de polvo (Powder bed fusion)
 - Binder jetting
 - Estereolitograf&iacute;a
 - Litograf&iacute; axial computarizada
-- Manufactura por adición de líquido
+- Manufactura por adici&oacute;n de l&iacute;quido
 - Laminado
-- Deposición por energización directa (DED)
+- Deposici&oacute;n por energizaci&oacute;n directa (DED)
 
 ---
 
-## Extrusión de material
+## Extrusi&oacute;n de material
 
 - FDM / FFF
 - Robocasting
