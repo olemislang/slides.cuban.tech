@@ -105,7 +105,7 @@
 - [Digital electronics - part 1](digital-electronics-1.html)
   * [CubanTech meetup #45](http://meetup.cuban.tech/events/258279078/) - Havana, Cuba 2019/01/27
 - [ARDUINO HACKING- Electronic and software tricks for arduino](arduino_hacking.html)
-  * [CubanTech meetup #61](http://meetup.cuban.tech/events/262541266/) - Havana, Cuba 2019/07/20
+  * [CubanTech meetup #61](http://meetup.cuban.tech/events/262541266/)
 - [Introduction to FDM 3D printers](3dprint.fdm.intro.es.html)
-  * [CubanTech meetup #67](ihttp://meetup.cuban.tech/events/267926611/)
+  * [CubanTech meetup #67](http://meetup.cuban.tech/events/267926611/) - Havana, Cuba 2020/01/25
 
