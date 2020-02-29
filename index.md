@@ -106,6 +106,6 @@
   * [CubanTech meetup #45](http://meetup.cuban.tech/events/258279078/) - Havana, Cuba 2019/01/27
 - [ARDUINO HACKING- Electronic and software tricks for arduino](arduino_hacking.html)
   * [CubanTech meetup #61](http://meetup.cuban.tech/events/262541266/)
-- [Introduction to FDM 3D printers](3dprint.fdm.intro.es.html)
+- [Introduction to FDM 3D printers](3dprint.fdm.intro.html)
   * [CubanTech meetup #67](http://meetup.cuban.tech/events/267926611/) - Havana, Cuba 2020/01/25
 
