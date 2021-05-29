@@ -246,11 +246,11 @@ Password: meet-ups
 |                             | <small> Ticker </small> | <small> Share Value </small>       | <small> Stock Weight </small>  | <small> Stock Type </small> |
 |-----------------------------|--------|-------------------|---------------|------------|
 | <small> MicroStrategy Inc </small>           |  MSTR  |  $0.001           | 20%           |  Class A   |
-| <small> Square, Inc.       </small>          |    SQ  |                   | 18%           |            |
-| <small> Riot Blockchain, Inc  </small>       |  RIOT  |                   | 15%           |            |
-| <small> NVIDIA Corporation  </small>         |  NVDA  |                   | 15%           |            |
-| <small> PayPal Holdings, Inc.  </small>      |  PYPL  |                   | 10%           |            |
-| <small> Advanced Micro Devices, Inc. </small> |   AMD  |                   |  5%           |            |
+| <small> Square, Inc.       </small>          |    SQ  |  $0.0000001       | 18%           |  Class A   |
+| <small> Riot Blockchain, Inc  </small>       |  RIOT  |     -        | 15%           |  Common    |
+| <small> NVIDIA Corporation  </small>         |  NVDA  |   $0.001         | 15%           | Common     |
+| <small> PayPal Holdings, Inc.  </small>      |  PYPL  |   $0.0001           | 10%           | Common     |
+| <small> Advanced Micro Devices, Inc. </small> |   AMD  |  $0.01                 |  5%           | Common     |
 
 --
 
@@ -258,11 +258,11 @@ Password: meet-ups
 
 |                             | <small> Ticker </small> | <small> Share Value </small>       | <small> Stock Weight </small>  | <small> Stock Type </small> |
 |-----------------------------|--------|-------------------|---------------|------------|
-| <small> Taiwan Semiconductor Manufacturing Company Ltd </small> |   TSM  |                   | 5%            |            |
-| <small> Intercontinental Exchange, Inc. </small> |  ICE   |                   | 4%            |            |
-| <small> CME Group Inc.    </small>           |   CME  |                   |  4%           |            |
-| <small> Overstock.com, Inc.   </small>       |  OSTK  |                   |  2%           |            |
-| <small> Silvergate Capital Corp. </small>    |    SI  |                   |  2%           |            |
+| <small> Taiwan Semiconductor Manufacturing Company Ltd </small> |   TSM  |  NT$10.00         | 5%            | <small> American depositary shares 1x5 common shares </small> |
+| <small> Intercontinental Exchange, Inc. </small> |  ICE   |  $0.01            | 4%            | Common     |
+| <small> CME Group Inc.    </small>           |   CME  | $0.01             |  4%           |  Class A   |
+| <small> Overstock.com, Inc.   </small>       |  OSTK  | $0.0001           |  2%           |  Common    |
+| <small> Silvergate Capital Corp. </small>    |    SI  | $0.01              |  2%           | Class A    |
 
 ---
 
