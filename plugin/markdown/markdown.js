@@ -191,6 +191,20 @@
 
 	}
 
+  /**
+   * i18n markdown URL
+   */
+  function getLangURL(url_string, lang) {
+    if (url_string.length && url_string.endsWith(".md") && lang != "en" && lang) {
+      idx = url_string.lastIndexOf('.');
+      prefix = url_string.substr(0,idx);
+      suffix = url_string.substr(idx);
+      return prefix + '.' + lang + suffix;
+    } else {
+      return url_string;
+    }
+  }
+
 	/**
 	 * Parses any current data-markdown slides, splits
 	 * multi-slide markdown into separate sections and
@@ -201,6 +215,10 @@
 		var sections = document.querySelectorAll( '[data-markdown]'),
 			section;
 
+    var urlParams = new URLSearchParams(window.location.search);
+		var lang = urlParams.get("lang");
+		console.log(lang);
+
 		for( var i = 0, len = sections.length; i < len; i++ ) {
 
 			section = sections[i];
@@ -208,8 +226,9 @@
 			if( section.getAttribute( 'data-markdown' ).length ) {
 
 				var xhr = new XMLHttpRequest(),
-					url = section.getAttribute( 'data-markdown' );
+					url = getLangURL(section.getAttribute( 'data-markdown' ), lang);
 
+        console.log(url);
 				datacharset = section.getAttribute( 'data-charset' );
 
 				// see https://developer.mozilla.org/en-US/docs/Web/API/element.getAttribute#Notes
