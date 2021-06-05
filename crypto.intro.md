@@ -118,7 +118,7 @@ Password: meet-ups
 
 - Commodity
   * gold, silver, salt, conch shells
-- Massive adoption
+- Cash
   * Paper money
   * Coinage
 - Representative
@@ -171,6 +171,35 @@ Password: meet-ups
 ## Money flower
 
 ![](img/money_flower.png)
+
+--
+
+## Commodity Money - Examples
+
+- USA [Precious Metal Coins](https://catalog.usmint.gov/coins/precious-metal-coins/)
+  * Legal tender enacted by [Gold Bullion Coin Act of 1985](https://www.govinfo.gov/content/pkg/STATUTE-99/pdf/STATUTE-99-Pg1177.pdf)
+  * Commodities : bullion gold, gold, palladium, platinum , silver
+
+--
+
+## Money in Cuba
+
+- **Commodity money** None (that I know)
+- **Cash** CUP only
+- **Cryptocurrency** : All ( no legislation )
+- **Central-bank issued crypto** None
+- **Wholesale crypto markets** None . US embargo
+
+--
+
+## Money in Cuba
+
+- **Central bank reserves**
+  * 10% of all state-owned profit ( [Instrucci&oacute;n 9/2011 BCC](https://www.bc.gob.cu//storage/manual-regulaciones/February2018/aREsS9Qkty2M3FMsQ1Po.pdf) )
+  * International reserves
+- **Central bank digital currency** MLC
+- **Vrtual currency** unknown
+- **Bank deposits**
 
 ---
 
@@ -226,7 +255,6 @@ Password: meet-ups
 - What key aspects would that include?
 - What institutions should lead the process?
 
-
 ---
 
 ## SEC-regulated cryptocurrencies
@@ -234,7 +262,6 @@ Password: meet-ups
 - [Stacks](https://www.sec.gov/Archives/edgar/data/1719379/000110465919020748/a18-15736_1partiiandiii.htm)
 - Insight Notes Linked to the J.P. Morgan Basket of Companies with Exposure to Cryptocurrency (Mar 2021) due May 5, 2022
   * [details at sec.gov](https://www.sec.gov/Archives/edgar/data/0001665650/000121390021014247/s131027_424b2.htm)
-  * 
 - Telegram [TON rejected by SEC](https://www.sec.gov/litigation/complaints/2019/comp-pr2019-212.pdf)
   * [SEC press release](https://www.sec.gov/news/press-release/2019-212) to see why ...
   * HALT !
@@ -306,38 +333,15 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
 
 ---
 
-## What about ICO's in Cuba?
-
-- No Stock Exchanges , it's ilegal
-- ... in few words , FORGET IT !
-- Will change with forthcoming enterprise law and regulation ?
-- Socialism vs capitalism ?
-
---
-
-## Major Stock Exchanges
-###### source Statista.com, Feb 2021
-
-![](img/stock.exchange.world.png)
-
-<small> China's 3 in top ten, plus  </small>
-
----
-
-## Venezuela
-
-- Caracas Stock Exchange
-  * Completely electronic since Feb 1992
-  * SIBE (Sistema Integrado Bursátil Electrónico) since July, 1999
-- Ticker: BVC
-- Currency: VES
-
----
-
 ## Legal Status of Cryptocurrencies
-###### Library of Congress, 2018
 
 ![](img/crypto.legal.world.png)
+
+<span style="color:#33cc66">&block;</span>&nbsp;legal
+<span style="color:#ffcc00">&block;</span>&nbsp;regulated
+<span style="color:#ec6dd5">&block;</span>&nbsp;indirect ban
+<span style="color:#ff3333">&block;</span>&nbsp;hostile
+<span style="color:#808080">&block;</span>&nbsp;no record
 
 ---
 
@@ -368,288 +372,120 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
 
 ---
 
-## Q: I'll use cryptocurrencies once I understand what they doing ...
-
----
-
-## Bitcoin - Sample transaction
-
-<small> blocktrail.com </small>
-
-![](img/bitcoin.tx.c60e4dc5e69c19ff53a45954d8a8996fd9aac6fda317fd7238dec6a482c718cf.png)
-
----
-
-## Q: Financial freedom vs Bitcoin vs Government
-
----
-
-## Q: All crytpocurrencies are fraud 'cause invented by Ponzi
-
----
-
-## Q: Hey Mom! John Doe offered me crypto. Is he a criminal?
-
----
-
-## Q: Gimme them crypto ! Do I need a bank account?
-
----
-
-## Q: How do I actually use crypto?
-
----
-
-## Q: Do I always need a wallet ? What's the best one ?
-
----
-
-## Q: How can I make money by mining crypto?
-
----
-
-## Bitcoin mining
-
-- Add new blocks to the block chain
-- Make transation history hard to modify
-- Strategies
-  * Solo mining
-  * Pooled mining
-
----
-
-## Bitcoin mining - Solo mining
-
-![](img/bitcoin-en-solo-mining-overview.svg)
-
-- Miner generates new blocks on his own
-- Completely claims block reward and transaction fees
-- Large payments
-- Higher variance (longer time between them)
-
----
-
-## Bitcoin mining - Pooled mining
-
-![](img/bitcoin-en-pooled-mining-overview.svg)
-
-- Group of miners pool resources with other miners
-- Find bocks more often at easier bits targets
-- Proceeds shared amongst miners
-  * Correlated to relative hash power PoW
-- Small payments
-- Lower variance (i.e. shorter time between payments)
-
---
-
-## SlushPool
-
-<small> [slushpool.com/home/](https://slushpool.com/home/) </small>
-
-![](img/slushpool.png)
-
-<small> Minted coins : `+1M BTC` mined since Dec 2010. `ZCASH` since Apr 20th 2017</small>
-
---
-
-## SlushPool
-
-##### Hash rate
-
-![](img/slushpool.hashrate.20171113.png)
-
---
-
-## SlushPool
-
-##### Hash rate distribution
-
-![](img/slushpool.hashratedist.20171113.png)
-
---
-
-## Bitmain - AntMiner
-
-<small> [bitmaintech.com](https://bitmaintech.com/) </small>
-
-![](img/bitmain.antminer.s9.png)
-
-<small> Minted coins : `BTC` </small>
-
---
-
-## Bitmain - AntPool
-
-<small> [bitmaintech.com](https://bitmaintech.com/) </small>
-
-![](img/bitmain.antpool.png)
-
---
-
-## BTCC Pool
-
-<small> [pool.btcc.com](https://pool.btcc.com/) </small>
-
-![](img/btcc.png)
-
-<small> Minted coins : `BTC` </small>
-
----
-
-## Q: How much expensive are Bitcoin transactions ? Higher than 3% fee in ATM ?
-
----
-
-## Q: If I buy crypto and its price sinks ... do I lose my money?
-
----
-
-## Q: I want crypto no more ... can I get my money back? ... I'm Cuban ...
-
----
-
-## Q: Where do people mine Bitcoin?
-
----
-
-## Q: Is any special equipment needed to mine crypto?
-
----
-
-## Bitcoin mining hardware
-
-##### Installed capacity - 2017/11/13
-
-<div style="width: 500px; display: inline-block; margin-left: auto; magin-right: auto"> ![](img/btc.hashrate.20171113.png) </div>
-
-- <small> 6.4 EHash/s , 80,704,290.84 PFLOPS </small>
-- <small> 10,000 metric tonnes of hardware. Enough material to build another Eiffel tower. </small>
-
----
-
-## Q: Does crypto mining pollute the environment ?
-
---
-
-## Bitcoin mining hardware - Energy
-
-![](img/bitcoin.pow.energy.asic.jpg)
-
-Application specific integrated circuits, a.k.a. ASICs
-
---
-
-## Energy consumption of Bitcoin PoW
-
-<small> ... according to [BitcoinEnergyConsumption.com](https://BitcoinEnergyConsumption.com)</small>
-
-![](img/bitcoin.pow.energy.png)
-
-- Projected to be comparable to Denmark's in 2020 
-
----
-
 ## Q: How to implement crypto in Cuba for country-level money transfer?
 
 ---
 
-## Q: Who can see how many crypto coins I have ?
+## Cryptocurrency in Cuba
+
+- Decentralised (community) vs centralised (government)
+- Regulatory framework for crypto
+- Legal ramifications
 
 ---
 
-## Q: Can anybody confiscate my crypto ?
+## Poll via [@cubantech](https://t.me/cubantech)
+
+[![](img/crypto.cuba.how.2021.05.29.png)](https://t.me/cubantech_news/909)
 
 ---
 
-## Q: ... what if I buy a quantum computer? ... hein !
+## Cuban crypto - "enterprise" stocks
+
+- **3 votes** ... 1%
+- Exactly what ICO's all about
 
 ---
 
-## Q: Is there anybody really using this ?
+## What about ICO's in Cuba?
+
+- No Stock Exchanges , it's ilegal
+- ... in few words , FORGET IT !
+- Will change with forthcoming enterprise law and regulation ?
+- Socialism vs capitalism ?
+
+--
+
+## Major Stock Exchanges
+###### source Statista.com, Feb 2021
+
+![](img/stock.exchange.world.png)
+
+<small> China's 3 in top ten, plus  </small>
 
 ---
 
-## Q: Who can see how many crypto coins I have ?
+## Venezuela
+
+- Caracas Stock Exchange
+  * Completely electronic since Feb 1992
+  * SIBE (Sistema Integrado Burs&aacute;til Electr&oacute;nico) since July, 1999
+- Ticker: BVC
+- Currency: VES
 
 ---
 
-## Q: Can anybody confiscate my crypto ?
+## Cuban crypto as legal reserve
+
+- **5 votes** ... 1%
+- Regulated
+- Enerprise can use it ONLY in case of not having profit
+- Accumulates 10% of enterprise profit
+- Central-bank issued cryptocurrency wholesale
 
 ---
 
-## Q: ... what if I buy a quantum computer? ... hein !
+## Cuban crypto for intellectual property
+
+- **5 votes** ... 1%
+- Non-fungible tokens
+- ICO's ... coming soon
+- Fidelity
+  * Soccer
+    + Zilliqa
+    + Olyseum
+    + [FCB and Chiliz](https://www.fcbarcelona.com/en/news/1608032/bara-and-blockchain-platform-chiliz-join-forces-for-new-global-alliance-to-increase-interaction-with-fans) fan voting
+  * Public figures
 
 ---
 
-## Q: How to implement crypto in Cuba for country-level money transfer?
+## Cuban legal tender cryptocurrency
 
-- ... circumvecting the embargo ...?
-
----
-
-## Q: Is there anybody really using this ?
-
-## Howto launch a decentralized #cryptocurrency from #Cuba ?
-
----
-
-## Whats's volatility ?
+- **22 votes** ... 5%
+- Stablecoins 
+  * USD (i.e. MLC) vs CUP
+  * Exchange => CADECA
+- Solve many problems
+  * Double spending in TuEnvio.cu, EnZona, etc ...
+  * No paper money or coinage needed
+  * DApps on top
 
 ---
 
-## If Satoshi Nakamoto gives away its/their crypto ( &asymp; 1M BTC) what would happen to Bitcoin price?
+## Types of stablecoins
+### Fiat-Collateralized
+
+- Pegged to fiat
+- Regulated reserve for fintech apps: [USDC and VISA](https://t.me/cubantech_news/842)
+- Used by exchanges: BUSD, BGBP
 
 ---
 
-## Cryptocurrency volatility
+## Types of stablecoins
+### Crypto-Collateralized
 
-- Fluctuation over time
-  * Bad News
-  * Perceived store of value versus the fiat currency
-  * Uncertainty of Future Bitcoin's Value
-  * Large Currency Holder Risks (24h withdrawal limits)
-  * Security Breaches
-  * High-Profile Losses
-  * High-Inflation Nations
-  * Taxation
+- Backed by other cryptocurrencies
+  * Over-collaterized
+- Mirror tokens => e.g. DEX
 
 ---
 
-## Crypto Volatility Index
+## Types of stablecoins
+### Non-Collateralized (algorithmic)
 
-[![](img/cvi.finance.2021.05.28.png)](https://cvi.finance/)
-
----
-
-## Bitcoin Volatility Index
-
-[![](img/bvi.png)](https://www.buybitcoinworldwide.com/volatility-index/)
-
----
-
-## CBOE Volatility Index (VIX)
-
-![](img/vix.2021.05.28.png)
-
----
-
-## Properties of money
-
-- Fungibillity
-  * interchangeable units
-- Durability
-  * Repeated use
-- Divisibility
-  * Small units
-
----
-
-## Properties of money
-
-- Portability
-  * Easy to carry and transport
-- Cognizability
-  * Value easily identified
-- Scarcity
-  * Limited circulation
+- No reserve
+- Working mechanism for stable price
+  * ... like central banks do
+- Complicated for regulators
+  * Basecoin shut down by SEC on Dec 2018
 
