@@ -1,259 +1,258 @@
 
-## Cryptocurrencies 101
-#### Basic concepts to get started
+## Criptomonedas 101
+#### Conceptos básicos de introducción a la criptomoneda
 
 ----------------
 
-#### These slides: [slides.cuban.tech/crypto.intro.html](http://slides.cuban.tech/crypto.intro.html)
+#### Diapositivas: [slides.cuban.tech/crypto.intro.html](http://slides.cuban.tech/crypto.intro.html)
 
 ----------------
 
-### Wifi Info
+### Información de Wifi
 
-Network: cubantech
+Red: cubantech
 
-Password: meet-ups
-
----
-
-## Goals
-
-- Cuban Central Bank issues informative note about crypto
-  * Discourage joining crypto investment schemes
-  * Bitcoin logo everywhere
-- Stop the F.U.D
+Contraseña: meet-ups
 
 ---
 
-## F.U.D
+## Objetivos
 
-- Fear
-- Uncertainity
-- Doubt
+- El Banco Central de Cuba emite una nota informativa sobre las criptomonedas
+  * Disuadir de unirse a esquemas de inversión en criptomonedas
+  * El logo de Bitcoin por todas partes
+- Detener el F.U.D
 
 ---
 
-## Outline
+##  F.U.D [Acrónimo en Inglés]
 
-- Q&A
-  * Cryptocurrencies are they real money ?
-  * What's a cryptocurrency all about?
-  * How can I trust cryptocurrencies if I can't see them coins?
-  * Crypto are not regulated. I trust my bank and my government
-  * I'll use cryptocurrencies once I understand what they doing ...
+- Miedo [Fear]
+- Incertidumbre [Uncertainity]
+- Duda [Doubt]
 
-<small> No previous knowledge to understand </small>
+---
+
+## Resumen
+
+- PREGUNTAS Y RESPUESTAS
+  * ¿Las criptomonedas son dinero real?
+  * ¿Qué es una criptomoneda?
+  * ¿Cómo puedo confiar en las criptomonedas si no puedo verlas o tocarlas?
+  * Las criptomonedas no están reguladas gubernamentalmente. Prefiero confiar en mi banco y gobierno
+  * Usaré las criptodivisas una vez que comprenda lo que hacen...
+
+
+<small> No es necesario tener conocimientos previos para entender </small>
 
 --
 
-## Outline
+## Resumen
 
-- Q&A
-  * Financial freedom vs Bitcoin vs Government
-  * All crytpocurrencies are fraud 'cause invented by Ponzi
-  * Hey Mom! John Doe offered me crypto. Is he a criminal?
-  * Gimme them crypto ! Do I need a bank account?
-  * How do I actually use crypto?
-  * Do I always need a wallet ? What's the best one ?
-  * How can I make money by mining crypto?
-
---
-
-## Outline
-
-- Q&A
-  * How much expensive are Bitcoin transactions ? Higher than 3% fee in ATM ?
-  * If I buy crypto and its price sinks ... do I lose my money?
-  * I want crypto no more ... can I get my money back? ... I'm Cuban ...
-  * Where do people mine Bitcoin?
-  * Is any special equipment needed to mine crypto?
-  * Does crypto mining pollute the environment ?
+- PREGUNTAS Y RESPUESTAS
+  * La libertad financiera vs Bitcoin vs Gobierno
+  * Las criptomonedas son un fraude porque fueron inventadas por Ponzi
+  * ¡Hey mamá! John Doe me ofreció cryptos. ¿Será un delincuente?
+  * ¡Dame las criptomonedas! ¿Necesito una cuenta bancaria?
+  * ¿Cómo debo usar realmente las cryptos?
+  * ¿Necesito siempre una wallet [billetera digital]? ¿Cuál sería la mejor?
+  * ¿Cómo puedo ganar dinero minando crypto?
 
 --
 
-## Outline
+## Resumen
 
-- Q&A
-  * Who can see how many crypto coins I have ?
-  * Can anybody confiscate my crypto ?
-  * How to implement crypto in Cuba for country-level money transfer?
-    + ... circumvecting the embargo ...?
-  * ... what if I buy a quantum computer? ... hein !
-  * Is there anybody really using this ?
+- PREGUNTAS Y RESPUESTAS
+  * ¿Cuánto cuestan las transacciones de Bitcoin? ¿Superan el 3% de comisión en los cajeros automáticos?
+  * Al comprar crypto y su precio se desploma... ¿pierdo mi dinero?
+  * Yo no quiero más crypto... ¿podré recuperar mi dinero?... Soy cubano...
+  * ¿Dónde se mina Bitcoin?
+  * ¿Es necesario algún equipo especial para minar crypto?
+  * ¿Contamina la minería de crypto el medio ambiente?
 
-<small> No previous knowledge to understand </small>
+--
 
----
+## Resumen
 
-## Outline
+- PREGUNTAS Y RESPUESTAS
+  * ¿Quién puede ver la cantidad de criptomonedas que tengo?
+  * ¿Alguien puede confiscar mi cripto?
+  * ¿Cómo instrumentar las cryptos en Cuba para la transferencia de dinero a nivel de país?
+    +... ¿Evitar el embargo...?
+  * ... ¿y si compro un ordenador cuántico?... ¡Hey!
+  * ¿Existe realmente alguien que utilice esto?
 
-- How to launch a decentralized #cryptocurrency from #Cuba ?
-- What's volatility ?
-- If Satoshi Nakamoto gives away its/their crypto ( &asymp; 1M BTC) what would happen to Bitcoin price?
-- Beyond cryptocurrencies ...
-
----
-
-## Q: Cryptocurrencies is it real money ?
-
----
-
-## What is money ?
-
-- Medium of exchange
-- Unit of account
-  * Relative value of goods and services
-- Store of value
-  * Stable, save, store, and retrieve
+<small> No es necesario tener conocimientos previos para entender </small>
 
 ---
 
-# Cryptocurrencies design: medium of exchange
+#Resumen
 
-<small> Fetichism of exchange </small>
-
----
-
-## Types of money
-
-- Commodity
-  * gold, silver, salt, conch shells
-- Cash
-  * Paper money
-  * Coinage
-- Representative
-  * Face value
-  * Backed by commodity, not being the commodity
+- Cómo lanzar una #criptomoneda descentralizada desde #Cuba ?
+- ¿Qué es la volatilidad?
+- Si Satoshi Nakamoto regala su/su cripto ( &asymp; 1M BTC) ¿qué pasaría con el precio de Bitcoin?
+- Más allá de las criptodivisas ...
 
 ---
 
-## Types of money - Fiat
-
-- Value by government regulation
-  * Maintains value
-- No intrinsic value
-- No use value
-- First use in China 11th century
-- 1971 - Nixon decoupled US from gold
-  * Progressively adopted world-wide
+## Pregunta: ¿Son las criptomonedas dinero real?
 
 ---
 
-## Types of money - Commercial bank money
+## ¿Qué es el dinero?
 
-- Demand deposit account
-- Funds can be withdrawn at any time by check or cash withdrawal
-- No prior notice to the bank or financial institution. 
-- ATM & payment cards
-  * Credit cards
-  * Debit cards
-  * Gift cards
-  * Fleet cards
+- Medio de intercambio
+- Unidad contable
+  ## Valor relativo de los bienes y servicios
+- Depósito de valor
+  #Estable, reserva, almacén y retorno
 
 ---
 
-## Digital money
+# Diseño de las criptomonedas: medio de intercambio
 
-- Money represented digitally
-- 1990 - In USA all money transferred between central bank and commercial banks was electronic
-
----
-
-## Practical aspects of money
-
-- Central bank-issued
-- Peer-to-peer
-- Electronic
-- Universally accessible
+<small> El fetichismo del intercambio </small>
 
 ---
 
-## Money flower
+## Tipos de dinero
+
+- Materia prima
+  * Oro, plata, sal, caracolas
+- Dinero en efectivo
+  * Papel moneda
+  ## Moneda
+- Representativo
+  * Valor nominal
+  * Respaldada por la mercancía, sin ser ésta.
+
+---
+
+## Tipos de dinero - Fiat
+
+- Valor por regulación gubernamental
+  * Mantiene el valor
+- No tiene valor intrínseco
+- No tiene valor de uso
+- Se utilizó por primera vez en China en el siglo XI
+- 1971 - Nixon desvinculó a EEUU del oro
+  * Adoptado progresivamente en todo el mundo
+  
+---
+
+## Tipos de dinero - Moneda del banco comercial
+
+- Cuenta de depósito a la vista
+- Los fondos pueden retirarse en cualquier momento mediante cheque o en efectivo
+- Sin previo aviso al banco o a la entidad financiera. 
+- Tarjetas de pago y cajeros automáticos
+  * Tarjetas de crédito
+  * Tarjetas de débito
+  * Tarjetas regalo
+  * Tarjetas de flete
+
+---
+
+## Dinero digital
+
+- Dinero representado digitalmente
+- 1990 - En EEUU todo el dinero transferido entre el banco central y los bancos comerciales era electrónico
+
+---
+
+## Aspectos prácticos del dinero
+
+- Emitido por el banco central
+- De igual a igual
+- Electrónico
+- Accesible universalmente
+
+---
+
+## La cultura del dinero
 
 ![](img/money_flower.png)
 
 --
 
-## Commodity Money - Examples
+## Dinero de las materias primas - Ejemplos
 
-- USA [Precious Metal Coins](https://catalog.usmint.gov/coins/precious-metal-coins/)
-  * Legal tender enacted by [Gold Bullion Coin Act of 1985](https://www.govinfo.gov/content/pkg/STATUTE-99/pdf/STATUTE-99-Pg1177.pdf)
-  * Commodities : bullion gold, gold, palladium, platinum , silver
+- USA [Monedas de metales preciosos](https://catalog.usmint.gov/coins/precious-metal-coins/)
+  * Moneda de curso legal promulgada por [Gold Bullion Coin Act of 1985](https://www.govinfo.gov/content/pkg/STATUTE-99/pdf/STATUTE-99-Pg1177.pdf)
+  * Materias primas : lingotes de oro, oro, paladio, platino , plata
+  
+--
+
+## Dinero en Cuba
+
+- Dinero en efectivo** Ninguno (a mi entender)
+- **Efectivo** Sólo CUP
+- **Moneda criptográfica** : Todas (sin legislación)
+- **Criptomoneda emitida por el banco central** Ninguna
+- **Mercados de criptomonedas al por mayor** Ninguno . Embargo de EE.UU.
 
 --
 
-## Money in Cuba
+## Dinero en Cuba
 
-- **Commodity money** None (that I know)
-- **Cash** CUP only
-- **Cryptocurrency** : All ( no legislation )
-- **Central-bank issued crypto** None
-- **Wholesale crypto markets** None . US embargo
-
---
-
-## Money in Cuba
-
-- **Central bank reserves**
-  * 10% of all state-owned profit ( [Instrucci&oacute;n 9/2011 BCC](https://www.bc.gob.cu//storage/manual-regulaciones/February2018/aREsS9Qkty2M3FMsQ1Po.pdf) )
-  * International reserves
-- **Central bank digital currency** MLC
-- **Vrtual currency** unknown
-- **Bank deposits**
+- **Reservas del banco central**
+  * 10% de todos los beneficios del Estado ( [Instrucci&oacute;n 9/2011 BCC](https://www.bc.gob.cu//storage/manual-regulaciones/February2018/aREsS9Qkty2M3FMsQ1Po.pdf) )
+  *Reservas internacionales
+- **Moneda digital del banco central** MLC
+- **Moneda real** desconocida
+- **Depósitos bancarios**
 
 ---
 
-## Q: What's a cryptocurrency all about?
+## Pregunta: ¿Qué es una criptomoneda?
+---
+
+## La cultura del dinero explicada
+
+- Las criptomonedas son 
+  * Peer-to-peer (de par a par, entre iguales)
+  * Dinero electrónico
+  * Minorista vs mayorista
+  * Descentralizado vs regulado
 
 ---
 
-## Money flower explained
+## ¿Qué es el dinero al por mayor?
 
-- Cryptocurrencies are 
-  * Peer-to-peer
-  * Electronic money
-  * Retail vs wholesale
-  * Decentralised vs regulated
-
----
-
-## What's wholesale money
-
-- Large sums of money lent by financial institutions in money markets
-  * Large corporations
-  * Financial institutions
-- Short-term financing
-- It is critical to the U.S. and global financial systems
-- U.S., new money market regulations came into force in 2016
+- Grandes sumas de dinero prestadas por las instituciones financieras en los mercados monetarios
+  * Grandes empresas
+  * Instituciones financieras
+- Financiación a corto plazo
+- Es fundamental para los sistemas financieros de EE.
+- EUA, la nueva regulación de los mercados monetarios entró en vigor en 2016
 
 ---
 
-## Wholesale cryptocurrency desks
+## Mayoristas de criptodivisas
 
-- Voice OTC : directly with trader e.g. via Bloomberg, Skype, or Slack
-- Electronic OTC : via an API e.g. FIX , REST
-
----
-
-## What are cryptocurrencies ?
-
-- Digital asset for medium of exchange
-- Coin ownership records
-- Computerized database ledger
-- Strong cryptography
-  * Secure transaction records
-  * Control the creation of additional coins
-  * Verify the transfer of coin ownership
-- Unless otherwise noted, let's talk #Bitcoin
+- OTC de voz: directamente con el comerciante, por ejemplo, a través de Bloomberg, Skype o Slack
+- OTC electrónico: a través de una API, por ejemplo, FIX , REST
 
 ---
 
-## Q: Crypto is not regulated
-#### I trust my bank and my government
+## ¿Qué son las criptomonedas?
 
-- Should crypto be legally regulated in Cuba?
-- What key aspects would that include?
-- What institutions should lead the process?
+- Activo digital como medio de intercambio
+- Registros de propiedad de las monedas
+- Base de datos informatizada
+- Fuerte criptografía
+  * Registros seguros de transacciones
+  * Control de la creación de monedas adicionales
+  * Validación de la transferencia de la propiedad de las monedas
+- A menos que se indique lo contrario, hablemos de #Bitcoin
+
+---
+
+## Pregunta: Las criptomonedas no están reguladas#### Confío en mi banco y en mi gobierno
+
+- ¿Debería regularse legalmente el cripto en Cuba?
+- ¿Qué aspectos clave incluiría?
+- ¿Qué instituciones deberían liderar el proceso?
 
 ---
 
@@ -293,66 +292,66 @@ Password: meet-ups
 
 ---
 
-## Initial coin offer (ICO)
+## Oferta Inicial de Monedas (ICO, Initial Coin Offer)
 
-- One of many models
-- Based on [Initial Public Offering](https://www.investopedia.com/terms/i/ipo.asp)
-- Regulation of ICOs depends on how an ICO is categorized.
-  * Varies according to jurisdiction
-- Taxation
-
---
-
-## ICO - New Zealand
-
-- Depends on whether the token offered is categorized as
-  * Debt security
-  * Equity security
-  * Managed investment product
-  * Derivative
+- Uno de los muchos modelos
+- Basado en la [Oferta Pública Inicial](https://www.investopedia.com/terms/i/ipo.asp)
+- La regulación de las ICOs depende de cómo se categorice esta.
+  * Depende de la jurisdicción
+- Fiscalidad
 
 --
 
-## ICO - Netherlands
+## ICO - Nueva Zelanda
 
-Netherlands, the rules applicable to a specific ICO depend on whether the token offered is considered a security or a unit in a collective investment, an assessment made on a case-by-case basis
+- Depende de si el token ofrecido está categorizado como
+  * Valor de deuda
+  * Valor de renta variable
+  * Producto de inversión gestionado
+  * Derivado
 
 --
 
-## Taxation
+## ICO - Países Bajos
 
-- Israel : taxed as asset
-- Bulgaria : taxed as financial asset
-- Switzerland : taxed as foreign currency
-- Argentina & Spain : subject to income tax
-- Denmark : subject to income tax and losses are deductible
-- United Kingdom:
-  * corporations pay corporate tax
-  * unincorporated businesses pay income tax
-  * individuals pay capital gains tax
+En los Países Bajos, las normas aplicables a una ICO concreta dependen de si el token ofrecido se considera un valor o una participación en una inversión colectiva, una evaluación que se realiza caso por caso
+
+--
+
+## Fiscalidad
+
+- Israel : se tasa como activo
+- Bulgaria : se tasa como activo financiero
+- Suiza : se tasa como moneda extranjera
+- Argentina y España : sujetas al impuesto sobre la renta
+- Dinamarca : sujeta al impuesto sobre la renta y las pérdidas son deducibles
+- Reino Unido:
+  * las empresas pagan el impuesto de sociedades
+  * Las empresas no constituidas en sociedad pagan el impuesto sobre la renta
+  * Las personas físicas pagan el impuesto sobre las ganancias de capital
 
 ---
 
-## Legal Status of Cryptocurrencies
+## Situación legal de las criptomonedas
 
 ![](img/crypto.legal.world.png)
 
 <span style="color:#33cc66">&block;</span>&nbsp;legal
-<span style="color:#ffcc00">&block;</span>&nbsp;regulated
-<span style="color:#ec6dd5">&block;</span>&nbsp;indirect ban
-<span style="color:#ff3333">&block;</span>&nbsp;hostile
-<span style="color:#808080">&block;</span>&nbsp;no record
+<span style="color:#ffcc00">&block;</span>&nbsp;regulado
+<span style="color:#ec6dd5">&block;</span>&nbsp;prohibición indirecta
+<span style="color:#ff3333">&block;</span>&nbsp;hostil
+<span style="color:#808080">&block;</span>&nbsp;sin registro
 
 ---
 
-## Central-Bank regulated crypto
+## Criptografía regulada por el Banco Central
 ###### Library of Congress, 2018
 
 ![](img/crypto.stateowned.world.png)
 
 --
 
-##  Central-Bank regulated crypto
+##  Criptografía regulada por el Banco Central
 
 - China's [digital yuan](https://www.cnbc.com/2021/03/05/chinas-digital-yuan-what-is-it-and-how-does-it-work.html)i... [videos](https://www.youtube.com/digital-yuan)
 - Venezuela [Petro](https://web.archive.org/web/20180412202954/http://petro.gob.ve/pdf/en/Whitepaper_Petro_en.pdf)
@@ -363,7 +362,7 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
 
 --
 
-## Central-Bank regulated crypto - Marshall Islands 
+## Criptografía regulada por el Banco Central - Marshall Islands 
 - [Sovereign (SOV)](https://sov.foundation/)
 - 2018 [Sovereign Currency Act](https://sov.foundation/law.pdf)
 - [SOV Whitepaper](https://docsend.com/view/nvi59vw)
@@ -372,119 +371,120 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
 
 ---
 
-## Q: How to implement crypto in Cuba for country-level money transfer?
+## Pregunta: ¿Cómo implantar las criptomonedas en Cuba para la transferencia de dinero a nivel de país?
 
 ---
 
-## Cryptocurrency in Cuba
+## Criptodivisas en Cuba
 
-- Decentralised (community) vs centralised (government)
-- Regulatory framework for crypto
-- Legal ramifications
+- Descentralizado (comunidad) vs centralizado (gobierno)
+- Marco regulatorio para el crypto
+- Ramificaciones legales
 
 ---
 
-## Poll via [@cubantech](https://t.me/cubantech)
+## Encuesta en [@cubantech](https://t.me/cubantech)
 
 [![](img/crypto.cuba.how.2021.05.29.png)](https://t.me/cubantech_news/909)
 
 ---
 
-## Cuban crypto - "enterprise" stocks
+## Crypto en Cuba - Acciones "empresariales"
 
-- **3 votes** ... 1%
-- Exactly what ICO's all about
+- **3 votos**... 1%
+- Exactamente de lo que se trata la ICO
 
 ---
 
-## What about ICO's in Cuba?
+## ¿Qué pasa con las ICO's en Cuba?
 
-- No Stock Exchanges , it's ilegal
-- ... in few words , FORGET IT !
-- Will change with forthcoming enterprise law and regulation ?
-- Socialism vs capitalism ?
+- No hay bolsas de valores, es ilegal
+- ...en pocas palabras, ¡Olvídalo!
+- ¿Cambiará con la próxima ley y regulación de empresas?
+- ¿Socialismo vs capitalismo?
 
 --
 
-## Major Stock Exchanges
-###### source Statista.com, Feb 2021
+## Principales bolsas de valores
+###### fuente Statista.com, Feb 2021
 
-![](img/stock.exchange.world.png)
+(img/stock.exchange.world.png)
 
-<small> China's 3 in top ten, plus  </small>
+<small> China tiene 3er puesto entre los primeros 10 </small>
 
 ---
 
 ## Venezuela
 
-- Caracas Stock Exchange
-  * Completely electronic since Feb 1992
-  * SIBE (Sistema Integrado Burs&aacute;til Electr&oacute;nico) since July, 1999
+- Bolsa de Valores de Caracas
+  * Completamente electrónica desde febrero de 1992
+  * SIBE (Sistema Integrado Burs&aacutetil Electr&oacutenico) desde julio de 1999
 - Ticker: BVC
-- Currency: VES
+- Moneda: VES
 
 ---
 
-## Cuban crypto as legal reserve
+## Criptomoneda cubana como reserva legal
 
-- **5 votes** ... 1%
-- Regulated
-- Enerprise can use it ONLY in case of not having profit
-- Accumulates 10% of enterprise profit
-- Central-bank issued cryptocurrency wholesale
+- **5 votos**... 1%
+- Regulada
+- Las empresas pueden utilizarla SOLO en caso de no tener beneficios
+- Acumula el 10% del beneficio de la empresa
+- Criptomoneda emitida por el banco central al por mayor
 
 ---
 
-## Cuban crypto for intellectual property
+## Criptomoneda cubana para la propiedad intelectual
 
-- **5 votes** ... 1%
-- Non-fungible tokens
-- ICO's ... coming soon
-- Fidelity
-  * Soccer
+- **5 votos** ... 1%
+- Tokens no fungibles
+- ICO's ... próximamente
+- Fidelidad
+  * Fútbol
     + Zilliqa
     + Olyseum
-    + [FCB and Chiliz](https://www.fcbarcelona.com/en/news/1608032/bara-and-blockchain-platform-chiliz-join-forces-for-new-global-alliance-to-increase-interaction-with-fans) fan voting
-  * Public figures
-
+    + [FCB y Chiliz](https://www.fcbarcelona.com/en/news/1608032/bara-and-blockchain-platform-chiliz-join-forces-for-new-global-alliance-to-increase-interaction-with-fans) votación de los fans
+  * Figuras públicas
+  
 ---
 
-## Cuban legal tender cryptocurrency
+## Criptomoneda cubana de curso legal
 
-- **22 votes** ... 5%
-- Stablecoins 
+- **22 votos** ... 5%
+- Monedas estables 
   * USD (i.e. MLC) vs CUP
-  * Exchange => CADECA
-- Solve many problems
-  * Double spending in TuEnvio.cu, EnZona, etc ...
-  * No paper money or coinage needed
-  * DApps on top
+  * Exchange [Intercambio] => CADECA
+- Resolvería muchos problemas
+  * Doble gasto en TuEnvio.cu, EnZona, etc...
+  * No es necesario el papel moneda o la acuñación de monedas
+  * DApps
 
 ---
 
-## Types of stablecoins
-### Fiat-Collateralized
+## Tipos de stablecoins
+### Fiat-Colateralizado
 
-- Pegged to fiat
-- Regulated reserve for fintech apps: [USDC and VISA](https://t.me/cubantech_news/842)
-- Used by exchanges: BUSD, BGBP
-
----
-
-## Types of stablecoins
-### Crypto-Collateralized
-
-- Backed by other cryptocurrencies
-  * Over-collaterized
-- Mirror tokens => e.g. DEX
+- Vinculada al dinero fiat
+- Reserva regulada para aplicaciones fintech: [USDC y VISA](https://t.me/cubantech_news/842)
+- Utilizado por las bolsas: BUSD, BGBP
 
 ---
 
-## Types of stablecoins
+## Tipos de stablecoins
+### Crypto-Colateralized
+
+- Respaldadas por otras criptomonedas
+  ## Over-collaterized
+- Mirror tokens => p. ej. DEX
+
+---
+
+## Tipos de stablecoins
 ### Non-Collateralized (algorithmic)
 
-- No reserve
-- Working mechanism for stable price
-  * ... like central banks do
-- Complicated for regulators
-  * Basecoin shut down by SEC on Dec 2018
+- Sin reserva
+- Mecanismo de trabajo para el precio estable
+  ## ... como los bancos centrales
+- Complicado para los reguladores
+  * Basecoin cerrado por la SEC en diciembre de 2018
+
