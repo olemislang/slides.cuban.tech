@@ -65,3 +65,28 @@
   max-height: 300px;
 }
 
+.hmenu {
+	margin:10px;
+	font-family: sans-serif;
+  z-index: 2;
+}
+.hmenu li {
+	width:30px;
+}
+.hmenu li {
+	display:block;
+	float:left;
+	margin-left:2px;
+}
+
+.hmenu a {
+	display:block;
+	padding:3px;
+	text-decoration:none;
+}
+
+.hmenu a:hover {
+	background-color:#009;
+	color:#fff;
+}
+
