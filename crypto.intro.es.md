@@ -1,6 +1,6 @@
 
 ## Criptomonedas 101
-#### Conceptos básicos de introducción a la criptomoneda
+#### Conceptos b&aacute;sicos de introducci&oacute;n a la criptomoneda
 
 ----------------
 
@@ -8,24 +8,24 @@
 
 ----------------
 
-### Información de Wifi
+### Informaci&oacute;n de Wifi
 
 Red: cubantech
 
-Contraseña: meet-ups
+Contrase&ntilde;a: meet-ups
 
 ---
 
 ## Objetivos
 
 - El Banco Central de Cuba emite una nota informativa sobre las criptomonedas
-  * Disuadir de unirse a esquemas de inversión en criptomonedas
+  * Disuadir de unirse a esquemas de inversi&oacute;n en criptomonedas
   * El logo de Bitcoin por todas partes
 - Detener el F.U.D
 
 ---
 
-##  F.U.D [Acrónimo en Inglés]
+##  F.U.D [Acr&oacute;nimo en Ingl&eacute;s]
 
 - Miedo [Fear]
 - Incertidumbre [Uncertainity]
@@ -36,11 +36,11 @@ Contraseña: meet-ups
 ## Resumen
 
 - PREGUNTAS Y RESPUESTAS
-  * ¿Las criptomonedas son dinero real?
-  * ¿Qué es una criptomoneda?
-  * ¿Cómo puedo confiar en las criptomonedas si no puedo verlas o tocarlas?
-  * Las criptomonedas no están reguladas gubernamentalmente. Prefiero confiar en mi banco y gobierno
-  * Usaré las criptodivisas una vez que comprenda lo que hacen...
+  * &iquest;Las criptomonedas son dinero real?
+  * &iquest;Qu&eacute; es una criptomoneda?
+  * &iquest;C&oacute;mo puedo confiar en las criptomonedas si no puedo verlas o tocarlas?
+  * Las criptomonedas no est&aacute;n reguladas gubernamentalmente. Prefiero confiar en mi banco y gobierno
+  * Usar&eacute; las criptodivisas una vez que comprenda lo que hacen...
 
 
 <small> No es necesario tener conocimientos previos para entender </small>
@@ -52,66 +52,66 @@ Contraseña: meet-ups
 - PREGUNTAS Y RESPUESTAS
   * La libertad financiera vs Bitcoin vs Gobierno
   * Las criptomonedas son un fraude porque fueron inventadas por Ponzi
-  * ¡Hey mamá! John Doe me ofreció cryptos. ¿Será un delincuente?
-  * ¡Dame las criptomonedas! ¿Necesito una cuenta bancaria?
-  * ¿Cómo debo usar realmente las cryptos?
-  * ¿Necesito siempre una wallet [billetera digital]? ¿Cuál sería la mejor?
-  * ¿Cómo puedo ganar dinero minando crypto?
+  * &iexcl;Hey mam&aacute;! John Doe me ofreci&oacute; cryptos. &iquest;Ser&aacute; un delincuente?
+  * &iexcl;Dame las criptomonedas! &iquest;Necesito una cuenta bancaria?
+  * &iquest;C&oacute;mo debo usar realmente las cryptos?
+  * &iquest;Necesito siempre una wallet [billetera digital]? &iquest;Cu&aacute;l ser&iacute;a la mejor?
+  * &iquest;C&oacute;mo puedo ganar dinero minando crypto?
 
 --
 
 ## Resumen
 
 - PREGUNTAS Y RESPUESTAS
-  * ¿Cuánto cuestan las transacciones de Bitcoin? ¿Superan el 3% de comisión en los cajeros automáticos?
-  * Al comprar crypto y su precio se desploma... ¿pierdo mi dinero?
-  * Yo no quiero más crypto... ¿podré recuperar mi dinero?... Soy cubano...
-  * ¿Dónde se mina Bitcoin?
-  * ¿Es necesario algún equipo especial para minar crypto?
-  * ¿Contamina la minería de crypto el medio ambiente?
+  * &iquest;Cu&aacute;nto cuestan las transacciones de Bitcoin? &iquest;Superan el 3% de comisi&oacute;n en los cajeros autom&aacute;ticos?
+  * Al comprar crypto y su precio se desploma... &iquest;pierdo mi dinero?
+  * Yo no quiero m&aacute;s crypto... &iquest;podr&eacute; recuperar mi dinero?... Soy cubano...
+  * &iquest;D&oacute;nde se mina Bitcoin?
+  * &iquest;Es necesario alg&uacute;n equipo especial para minar crypto?
+  * &iquest;Contamina la miner&iacute;a de crypto el medio ambiente?
 
 --
 
 ## Resumen
 
 - PREGUNTAS Y RESPUESTAS
-  * ¿Quién puede ver la cantidad de criptomonedas que tengo?
-  * ¿Alguien puede confiscar mi cripto?
-  * ¿Cómo instrumentar las cryptos en Cuba para la transferencia de dinero a nivel de país?
-    +... ¿Evitar el embargo...?
-  * ... ¿y si compro un ordenador cuántico?... ¡Hey!
-  * ¿Existe realmente alguien que utilice esto?
+  * &iquest;Qui&eacute;n puede ver la cantidad de criptomonedas que tengo?
+  * &iquest;Alguien puede confiscar mi cripto?
+  * &iquest;C&oacute;mo instrumentar las cryptos en Cuba para la transferencia de dinero a nivel de pa&iacute;s?
+    +... &iquest;Evitar el embargo...?
+  * ... &iquest;y si compro un ordenador cu&aacute;ntico?... &iexcl;Hey!
+  * &iquest;Existe realmente alguien que utilice esto?
 
 <small> No es necesario tener conocimientos previos para entender </small>
 
----
+--
 
-#Resumen
+## Resumen
 
-- Cómo lanzar una #criptomoneda descentralizada desde #Cuba ?
-- ¿Qué es la volatilidad?
-- Si Satoshi Nakamoto regala su/su cripto ( &asymp; 1M BTC) ¿qué pasaría con el precio de Bitcoin?
-- Más allá de las criptodivisas ...
-
----
-
-## Pregunta: ¿Son las criptomonedas dinero real?
+- C&oacute;mo lanzar una #criptomoneda descentralizada desde #Cuba ?
+- &iquest;Qu&eacute; es la volatilidad?
+- Si Satoshi Nakamoto regala su/su cripto ( &asymp; 1M BTC) &iquest;qu&eacute; pasar&iacute;a con el precio de Bitcoin?
+- M&aacute;s all&aacute; de las criptodivisas ...
 
 ---
 
-## ¿Qué es el dinero?
+## Pregunta: &iquest;Son las criptomonedas dinero real?
+
+---
+
+## &iquest;Qu&eacute; es el dinero?
 
 - Medio de intercambio
 - Unidad contable
-  ## Valor relativo de los bienes y servicios
-- Depósito de valor
-  #Estable, reserva, almacén y retorno
+  * Valor relativo de los bienes y servicios
+- Dep&oacute;sito de valor
+  * Estable, reserva, almac&eacute;n y retorno
 
 ---
 
-# Diseño de las criptomonedas: medio de intercambio
+# Dise&ntilde;o de las criptomonedas: medio de intercambio
 
-<small> El fetichismo del intercambio </small>
+<small> Fetiche de intercambio </small>
 
 ---
 
@@ -121,55 +121,55 @@ Contraseña: meet-ups
   * Oro, plata, sal, caracolas
 - Dinero en efectivo
   * Papel moneda
-  ## Moneda
+  * Moneda
 - Representativo
   * Valor nominal
-  * Respaldada por la mercancía, sin ser ésta.
+  * Respaldada por la mercanc&iacute;a, sin ser &eacute;sta.
 
 ---
 
 ## Tipos de dinero - Fiat
 
-- Valor por regulación gubernamental
+- Valor por regulaci&oacute;n gubernamental
   * Mantiene el valor
-- No tiene valor intrínseco
+- No tiene valor intr&iacute;nseco
 - No tiene valor de uso
-- Se utilizó por primera vez en China en el siglo XI
-- 1971 - Nixon desvinculó a EEUU del oro
+- Se utiliz&oacute; por primera vez en China en el siglo XI
+- 1971 - Nixon desvincul&oacute; a EEUU del oro
   * Adoptado progresivamente en todo el mundo
-  
+
 ---
 
 ## Tipos de dinero - Moneda del banco comercial
 
-- Cuenta de depósito a la vista
+- Cuenta de dep&oacute;sito a la vista
 - Los fondos pueden retirarse en cualquier momento mediante cheque o en efectivo
 - Sin previo aviso al banco o a la entidad financiera. 
-- Tarjetas de pago y cajeros automáticos
-  * Tarjetas de crédito
-  * Tarjetas de débito
-  * Tarjetas regalo
-  * Tarjetas de flete
+- Tarjetas de pago y cajeros autom&aacute;ticos
+  * Tarjetas de cr&eacute;dito
+  * Tarjetas de d&eacute;bito
+  * Tarjetas de regalo
+  * Tarjetas de abastecimiento (flete)
 
 ---
 
 ## Dinero digital
 
 - Dinero representado digitalmente
-- 1990 - En EEUU todo el dinero transferido entre el banco central y los bancos comerciales era electrónico
+- 1990 - En EEUU todo el dinero transferido entre el banco central y los bancos comerciales era electr&oacute;nico
 
 ---
 
-## Aspectos prácticos del dinero
+## Aspectos pr&aacute;cticos del dinero
 
 - Emitido por el banco central
 - De igual a igual
-- Electrónico
+- Electr&oacute;nico
 - Accesible universalmente
 
 ---
 
-## La cultura del dinero
+## Taxonom&iacute;a del dinero
 
 ![](img/money_flower.png)
 
@@ -180,14 +180,14 @@ Contraseña: meet-ups
 - USA [Monedas de metales preciosos](https://catalog.usmint.gov/coins/precious-metal-coins/)
   * Moneda de curso legal promulgada por [Gold Bullion Coin Act of 1985](https://www.govinfo.gov/content/pkg/STATUTE-99/pdf/STATUTE-99-Pg1177.pdf)
   * Materias primas : lingotes de oro, oro, paladio, platino , plata
-  
+
 --
 
 ## Dinero en Cuba
 
 - Dinero en efectivo** Ninguno (a mi entender)
-- **Efectivo** Sólo CUP
-- **Moneda criptográfica** : Todas (sin legislación)
+- **Efectivo** S&oacute;lo CUP
+- **Moneda criptogr&aacute;fica** : Todas (sin legislaci&oacute;n)
 - **Criptomoneda emitida por el banco central** Ninguna
 - **Mercados de criptomonedas al por mayor** Ninguno . Embargo de EE.UU.
 
@@ -197,62 +197,64 @@ Contraseña: meet-ups
 
 - **Reservas del banco central**
   * 10% de todos los beneficios del Estado ( [Instrucci&oacute;n 9/2011 BCC](https://www.bc.gob.cu//storage/manual-regulaciones/February2018/aREsS9Qkty2M3FMsQ1Po.pdf) )
-  *Reservas internacionales
+  * Reservas internacionales
 - **Moneda digital del banco central** MLC
 - **Moneda real** desconocida
-- **Depósitos bancarios**
+- **Dep&oacute;sitos bancarios**
 
 ---
 
-## Pregunta: ¿Qué es una criptomoneda?
+## Pregunta: &iquest;Qu&eacute; es una criptomoneda?
+
 ---
 
-## La cultura del dinero explicada
+## Taxonom&iacute;a del dinero explicada
 
 - Las criptomonedas son 
   * Peer-to-peer (de par a par, entre iguales)
-  * Dinero electrónico
+  * Dinero electr&oacute;nico
   * Minorista vs mayorista
   * Descentralizado vs regulado
 
 ---
 
-## ¿Qué es el dinero al por mayor?
+## &iquest;Qu&eacute; es el dinero al por mayor?
 
 - Grandes sumas de dinero prestadas por las instituciones financieras en los mercados monetarios
   * Grandes empresas
   * Instituciones financieras
-- Financiación a corto plazo
+- Financiaci&oacute;n a corto plazo
 - Es fundamental para los sistemas financieros de EE.
-- EUA, la nueva regulación de los mercados monetarios entró en vigor en 2016
+- EUA, la nueva regulaci&oacute;n de los mercados monetarios entr&oacute; en vigor en 2016
 
 ---
 
 ## Mayoristas de criptodivisas
 
-- OTC de voz: directamente con el comerciante, por ejemplo, a través de Bloomberg, Skype o Slack
-- OTC electrónico: a través de una API, por ejemplo, FIX , REST
+- Corretaje de voz: directamente con el comerciante, por ejemplo, a trav&eacute;s de Bloomberg, Skype o Slack
+- Corretaje electr&oacute;nico: a trav&eacute;s de una API, por ejemplo, FIX , REST
 
 ---
 
-## ¿Qué son las criptomonedas?
+## &iquest;Qu&eacute; son las criptomonedas?
 
 - Activo digital como medio de intercambio
 - Registros de propiedad de las monedas
 - Base de datos informatizada
-- Fuerte criptografía
+- Protecci&oacute;n criptogr&aacute;fica
   * Registros seguros de transacciones
-  * Control de la creación de monedas adicionales
-  * Validación de la transferencia de la propiedad de las monedas
+  * Control de la creaci&oacute;n de monedas adicionales
+  * Validaci&oacute;n de la transferencia de la propiedad de las monedas
 - A menos que se indique lo contrario, hablemos de #Bitcoin
 
 ---
 
-## Pregunta: Las criptomonedas no están reguladas#### Confío en mi banco y en mi gobierno
+## Pregunta: Las criptomonedas no est&aacute;n reguladas
+#### Conf&iacute;o en mi banco y en mi gobierno
 
-- ¿Debería regularse legalmente el cripto en Cuba?
-- ¿Qué aspectos clave incluiría?
-- ¿Qué instituciones deberían liderar el proceso?
+- &iquest;Deber&iacute;a regularse legalmente el cripto en Cuba?
+- &iquest;Qu&eacute; aspectos clave incluir&iacute;a?
+- &iquest;Qu&eacute; instituciones deber&iacute;an liderar el proceso?
 
 ---
 
@@ -292,29 +294,29 @@ Contraseña: meet-ups
 
 ---
 
-## Oferta Inicial de Monedas (ICO, Initial Coin Offer)
+## Oferta Inicial de Monedas (ICO)
 
 - Uno de los muchos modelos
-- Basado en la [Oferta Pública Inicial](https://www.investopedia.com/terms/i/ipo.asp)
-- La regulación de las ICOs depende de cómo se categorice esta.
-  * Depende de la jurisdicción
+- Basado en la [Oferta P&uacute;blica Inicial](https://www.investopedia.com/terms/i/ipo.asp)
+- La regulaci&oacute;n de las ICOs depende de c&oacute;mo se categorice esta.
+  * Depende de la jurisdicci&oacute;n
 - Fiscalidad
 
 --
 
 ## ICO - Nueva Zelanda
 
-- Depende de si el token ofrecido está categorizado como
+- Depende de si el token ofrecido est&aacute; categorizado como
   * Valor de deuda
   * Valor de renta variable
-  * Producto de inversión gestionado
+  * Producto de inversi&oacute;n gestionado
   * Derivado
 
 --
 
-## ICO - Países Bajos
+## ICO - Pa&iacute;ses Bajos
 
-En los Países Bajos, las normas aplicables a una ICO concreta dependen de si el token ofrecido se considera un valor o una participación en una inversión colectiva, una evaluación que se realiza caso por caso
+En los Pa&iacute;ses Bajos, las normas aplicables a una ICO concreta dependen de si el token ofrecido se considera un valor o una participaci&oacute;n en una inversi&oacute;n colectiva, una evaluaci&oacute;n que se realiza caso por caso
 
 --
 
@@ -323,62 +325,62 @@ En los Países Bajos, las normas aplicables a una ICO concreta dependen de si el
 - Israel : se tasa como activo
 - Bulgaria : se tasa como activo financiero
 - Suiza : se tasa como moneda extranjera
-- Argentina y España : sujetas al impuesto sobre la renta
-- Dinamarca : sujeta al impuesto sobre la renta y las pérdidas son deducibles
+- Argentina y Espa&ntilde;a : sujetas al impuesto sobre la renta
+- Dinamarca : sujeta al impuesto sobre la renta y las p&eacute;rdidas son deducibles
 - Reino Unido:
   * las empresas pagan el impuesto de sociedades
   * Las empresas no constituidas en sociedad pagan el impuesto sobre la renta
-  * Las personas físicas pagan el impuesto sobre las ganancias de capital
+  * Las personas f&iacute;sicas pagan el impuesto sobre las ganancias de capital
 
 ---
 
-## Situación legal de las criptomonedas
+## Situaci&oacute;n legal de las criptomonedas
 
 ![](img/crypto.legal.world.png)
 
 <span style="color:#33cc66">&block;</span>&nbsp;legal
 <span style="color:#ffcc00">&block;</span>&nbsp;regulado
-<span style="color:#ec6dd5">&block;</span>&nbsp;prohibición indirecta
+<span style="color:#ec6dd5">&block;</span>&nbsp;prohibici&oacute;n indirecta
 <span style="color:#ff3333">&block;</span>&nbsp;hostil
 <span style="color:#808080">&block;</span>&nbsp;sin registro
 
 ---
 
-## Criptografía regulada por el Banco Central
+## Criptomoneda regulada por el Banco Central
 ###### Library of Congress, 2018
 
 ![](img/crypto.stateowned.world.png)
 
 --
 
-##  Criptografía regulada por el Banco Central
+##  Criptomoneda regulada por el Banco Central
 
-- China's [digital yuan](https://www.cnbc.com/2021/03/05/chinas-digital-yuan-what-is-it-and-how-does-it-work.html)i... [videos](https://www.youtube.com/digital-yuan)
+- China [yuan digital ](https://www.cnbc.com/2021/03/05/chinas-digital-yuan-what-is-it-and-how-does-it-work.html)... [videos](https://www.youtube.com/digital-yuan)
 - Venezuela [Petro](https://web.archive.org/web/20180412202954/http://petro.gob.ve/pdf/en/Whitepaper_Petro_en.pdf)
-  * [Petro explorer](https://registro.blockchain.gob.ve/web/) ?
-- ECCB [DCash](https://www.eccb-centralbank.org/p/what-you-should-know-1) legal tender
-- Ireland
-- Lithuania [LBCOIN](ihttps://www.lb.lt/en/digital-collector-coin-lbcoin)
+  * [Petro blockchain explorer](https://registro.blockchain.gob.ve/web/) ?
+- ECCB [DCash](https://www.eccb-centralbank.org/p/what-you-should-know-1) de curso legal
+- Irlanda
+- Lituania [LBCOIN](ihttps://www.lb.lt/en/digital-collector-coin-lbcoin)
 
 --
 
-## Criptografía regulada por el Banco Central - Marshall Islands 
+## Criptograf&iacute;a regulada por el Banco Central - Islas Marshall
 - [Sovereign (SOV)](https://sov.foundation/)
 - 2018 [Sovereign Currency Act](https://sov.foundation/law.pdf)
 - [SOV Whitepaper](https://docsend.com/view/nvi59vw)
-- Problem: High costs of remittances
-- Inspired by EOS cryptocurrency work
+- Problema: Alto costo de las remesas
+- Basada en el trabajo de la criptomoneda EOS
 
 ---
 
-## Pregunta: ¿Cómo implantar las criptomonedas en Cuba para la transferencia de dinero a nivel de país?
+## Pregunta: &iquest;C&oacute;mo implantar las criptomonedas en Cuba para la transferencia de dinero a nivel de pa&iacute;s?
 
 ---
 
 ## Criptodivisas en Cuba
 
 - Descentralizado (comunidad) vs centralizado (gobierno)
-- Marco regulatorio para el crypto
+- Marco regulatorio para criptograf&iacute;a y criptomonedas
 - Ramificaciones legales
 
 ---
@@ -396,19 +398,19 @@ En los Países Bajos, las normas aplicables a una ICO concreta dependen de si el
 
 ---
 
-## ¿Qué pasa con las ICO's en Cuba?
+## &iquest;Qu&eacute; pasa con las ICO's en Cuba?
 
 - No hay bolsas de valores, es ilegal
-- ...en pocas palabras, ¡Olvídalo!
-- ¿Cambiará con la próxima ley y regulación de empresas?
-- ¿Socialismo vs capitalismo?
+- ...en pocas palabras, &iexcl;Olv&iacute;dalo!
+- &iquest;Cambiar&aacute; con la pr&oacute;xima ley y regulaci&oacute;n de empresas?
+- &iquest;Socialismo vs capitalismo?
 
 --
 
 ## Principales bolsas de valores
 ###### fuente Statista.com, Feb 2021
 
-(img/stock.exchange.world.png)
+![](img/stock.exchange.world.png)
 
 <small> China tiene 3er puesto entre los primeros 10 </small>
 
@@ -417,8 +419,8 @@ En los Países Bajos, las normas aplicables a una ICO concreta dependen de si el
 ## Venezuela
 
 - Bolsa de Valores de Caracas
-  * Completamente electrónica desde febrero de 1992
-  * SIBE (Sistema Integrado Burs&aacutetil Electr&oacutenico) desde julio de 1999
+  * Completamente electr&oacute;nica desde febrero de 1992
+  * SIBE (Sistema Integrado Burs&aacute;til Electr&oacute;nico) desde julio de 1999
 - Ticker: BVC
 - Moneda: VES
 
@@ -438,14 +440,14 @@ En los Países Bajos, las normas aplicables a una ICO concreta dependen de si el
 
 - **5 votos** ... 1%
 - Tokens no fungibles
-- ICO's ... próximamente
+- ICO's ... pr&oacute;ximamente
 - Fidelidad
-  * Fútbol
+  * F&uacute;tbol
     + Zilliqa
     + Olyseum
-    + [FCB y Chiliz](https://www.fcbarcelona.com/en/news/1608032/bara-and-blockchain-platform-chiliz-join-forces-for-new-global-alliance-to-increase-interaction-with-fans) votación de los fans
-  * Figuras públicas
-  
+    + [FCB y Chiliz](https://www.fcbarcelona.com/en/news/1608032/bara-and-blockchain-platform-chiliz-join-forces-for-new-global-alliance-to-increase-interaction-with-fans) votaci&oacute;n de los fans
+  * Figuras p&uacute;blicas
+
 ---
 
 ## Criptomoneda cubana de curso legal
@@ -453,10 +455,10 @@ En los Países Bajos, las normas aplicables a una ICO concreta dependen de si el
 - **22 votos** ... 5%
 - Monedas estables 
   * USD (i.e. MLC) vs CUP
-  * Exchange [Intercambio] => CADECA
-- Resolvería muchos problemas
+  * Casa de cambio (Exchange) => CADECA
+- Resolver&iacute;a muchos problemas
   * Doble gasto en TuEnvio.cu, EnZona, etc...
-  * No es necesario el papel moneda o la acuñación de monedas
+  * No es necesario el papel moneda o la acu&ntilde;aci&oacute;n de monedas
   * DApps
 
 ---
@@ -474,7 +476,7 @@ En los Países Bajos, las normas aplicables a una ICO concreta dependen de si el
 ### Crypto-Colateralized
 
 - Respaldadas por otras criptomonedas
-  ## Over-collaterized
+  * Sobre-colateralizada
 - Mirror tokens => p. ej. DEX
 
 ---
@@ -484,7 +486,7 @@ En los Países Bajos, las normas aplicables a una ICO concreta dependen de si el
 
 - Sin reserva
 - Mecanismo de trabajo para el precio estable
-  ## ... como los bancos centrales
-- Complicado para los reguladores
+  * ... como los bancos centrales
+- Conflictivo para los reguladores
   * Basecoin cerrado por la SEC en diciembre de 2018
 
