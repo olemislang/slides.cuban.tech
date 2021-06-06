@@ -464,7 +464,7 @@ En los Pa&iacute;ses Bajos, las normas aplicables a una ICO concreta dependen de
 ---
 
 ## Tipos de stablecoins
-### Fiat-Colateralizado
+### Colateralizado sobre Fiat
 
 - Vinculada al dinero fiat
 - Reserva regulada para aplicaciones fintech: [USDC y VISA](https://t.me/cubantech_news/842)
@@ -473,7 +473,7 @@ En los Pa&iacute;ses Bajos, las normas aplicables a una ICO concreta dependen de
 ---
 
 ## Tipos de stablecoins
-### Crypto-Colateralized
+### Colateralizado sobre Crypto
 
 - Respaldadas por otras criptomonedas
   * Sobre-colateralizada
@@ -482,7 +482,7 @@ En los Pa&iacute;ses Bajos, las normas aplicables a una ICO concreta dependen de
 ---
 
 ## Tipos de stablecoins
-### Non-Collateralized (algorithmic)
+### No Colateralizado (algor&iacute;tmico)
 
 - Sin reserva
 - Mecanismo de trabajo para el precio estable
