@@ -2,6 +2,6 @@
 	path = docker-stuff
 	url = https://github.com/cubantech/docker-stuff
 	branch = gh-pages
-[submodule "vendor/gihub.com/denehyg/reveal.js-menu"]
-	path = vendor/gihub.com/denehyg/reveal.js-menu
-	url = https://github.com/denehyg/reveal.js-menu
+[submodule "vendor/github.com/lipis/flag-icon-css"]
+	path = vendor/github.com/lipis/flag-icon-css
+	url = https://github.com/lipis/flag-icon-css
