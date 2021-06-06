@@ -2,3 +2,6 @@
 	path = docker-stuff
 	url = https://github.com/cubantech/docker-stuff
 	branch = gh-pages
+[submodule "vendor/gihub.com/denehyg/reveal.js-menu"]
+	path = vendor/gihub.com/denehyg/reveal.js-menu
+	url = https://github.com/denehyg/reveal.js-menu
