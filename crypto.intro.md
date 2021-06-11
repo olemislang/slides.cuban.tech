@@ -33,22 +33,38 @@ Password: meet-ups
 
 ---
 
-## Outline
+## Outline - Day 1
 
 - Q&A
   * Cryptocurrencies are they real money ?
   * What's a cryptocurrency all about?
   * How can I trust cryptocurrencies if I can't see them coins?
   * Crypto are not regulated. I trust my bank and my government
-  * I'll use cryptocurrencies once I understand what they doing ...
 
 <small> No previous knowledge to understand </small>
 
 --
 
-## Outline
+## Outline - Day 2
+
+- How #cryptocurrency could work from #Cuba ?
+
+--
+
+## Outline - Day 3
+
+- How #cryptocurrency could work from #Cuba ?
+  * continued ...
+- How Bitcoin price is determined?
+  * How Google determines Bitcoin price?
+- Is Bitcoin obsolete?
+
+--
+
+## Outline - Coming soon
 
 - Q&A
+  * I'll use cryptocurrencies once I understand what they doing ...
   * Financial freedom vs Bitcoin vs Government
   * All crytpocurrencies are fraud 'cause invented by Ponzi
   * Hey Mom! John Doe offered me crypto. Is he a criminal?
@@ -59,7 +75,7 @@ Password: meet-ups
 
 --
 
-## Outline
+## Outline - Coming soon
 
 - Q&A
   * How much expensive are Bitcoin transactions ? Higher than 3% fee in ATM ?
@@ -68,10 +84,11 @@ Password: meet-ups
   * Where do people mine Bitcoin?
   * Is any special equipment needed to mine crypto?
   * Does crypto mining pollute the environment ?
+- How to launch a decentralized #cryptocurrency from #Cuba ? 
 
 --
 
-## Outline
+## Outline - Coming soon
 
 - Q&A
   * Who can see how many crypto coins I have ?
@@ -83,11 +100,10 @@ Password: meet-ups
 
 <small> No previous knowledge to understand </small>
 
----
+--
 
-## Outline
+## Outline - Coming soon
 
-- How to launch a decentralized #cryptocurrency from #Cuba ?
 - What's volatility ?
 - If Satoshi Nakamoto gives away its/their crypto ( &asymp; 1M BTC) what would happen to Bitcoin price?
 - Beyond cryptocurrencies ...
@@ -435,6 +451,36 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
 
 ---
 
+## Wholesale cryptocurrency in banking
+
+- Payment between central banks
+- Domestic payments between commercial banks
+- Cross-border payments between commercial banks
+- Needs consensus among national states
+
+---
+
+## [Project Aber](https://www.centralbank.ae/sites/default/files/2020-11/Aber%20Report%202020%20-%20EN_4.pdf) - Saudi Arabia and UAE
+###### UC1 - Payment between central banks
+
+![](img/banks.crypto.aber.uc1.png)
+
+---
+
+## [Project Aber](https://www.centralbank.ae/sites/default/files/2020-11/Aber%20Report%202020%20-%20EN_4.pdf) - Saudi Arabia and UAE
+###### UC2 - Domestic payments between commercial banks
+
+![](img/banks.crypto.aber.uc2.png)
+
+---
+
+## [Project Aber](https://www.centralbank.ae/sites/default/files/2020-11/Aber%20Report%202020%20-%20EN_4.pdf) - Saudi Arabia and UAE
+###### UC3 - Cross-border payments between commercial banks
+
+![](img/banks.crypto.aber.uc3.png)
+
+---
+
 ## Cuban crypto for intellectual property
 
 - **5 votes** ... 1%
@@ -547,6 +593,68 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
   * Pros
   * Cons
   * Really?
+
+---
+
+## Q: How Bitcoin price is determined
+
+---
+
+## Cryptocurrency price factors
+
+- Exchanges
+  * Coin supply vs market demand
+    + Consumer fidelity
+  * Speculation
+- Mining
+  * 1 BTC cost
+  * Miner rewards
+- Regulations governing its sale
+- Competing cryptocurrencies
+- Its internal governance
+
+--
+
+## Bitcoin supply
+
+- Total : `2,100,000,000,000,000` satoshi
+- In circulation 86% (Dec 2020)
+- Emission : on a regular basis 
+  * algorithmic
+
+--
+
+## Bitcoin in numbers
+#### How much BTC for me?
+
+- `21.000.000` BTC x `100.000.000`
+- `2,100,000,000,000,000` satoshi / `7,900,000,000` people
+- `26,582` satoshi / `100,000,000`
+- `0.00026582` BTC x `36,765.10` USD/BTC
+- $`9.77` USD per person in the world
+
+--
+
+## Bitcoin inflation and supply
+
+![](img/bitcoin-inflation-chart.png)
+
+--
+
+## Bitcoin supply and demand
+
+- Scarcity
+- No backdoors (e.g. no [national debt bonds](http://www.cubadebate.cu/especiales/2021/06/08/como-se-financia-el-deficit-presupuestario-de-cuba/) for CUP )
+- Well-understood chrystal-clear rules
+  * No fraudulent schemes
+  * No minting machines to inject coins into the system
+
+---
+
+## Q: Bitcoin price by Google
+###### Read between the lines
+
+![](img/bitcoin-google-price.png)
 
 ---
 
