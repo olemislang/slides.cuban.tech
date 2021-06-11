@@ -481,6 +481,34 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
 
 ---
 
+## Project Aber
+###### Stated benefits DLT for wholesale CBDC's
+
+- Architectural infrastructure resilience
+  * Decentralizaton => no single point of failure
+  * Failure of single not will not lead to whole country collapse
+- Improved security
+  * CDBC as a backup to RTGS
+  * DLT fundamentally different technology
+  * Attack vectors to core system cannot be reproduced
+- on-boarding of non-bank participant easier and lower costs
+- Solve Delivery vs Payment problem
+  * Atomic swap of assets for CBDC
+
+---
+
+## CDBC France
+
+- [Call for applications](https://www.banque-france.fr/stabilite-financiere/infrastructures-de-marche-et-systemes-de-paiement/appel-candidature-experimentations-monnaie-digitale-de-banque-centrale) to experiment CBDC for interbank settlement
+- Wholesale vs retail
+- Interbank use cases
+  * Delivery vs payment
+  * Payment vs payment
+  * Payment vs delivery of digital assets
+- [Results](https://www.banque-france.fr/communique-de-presse/liste-des-candidatures-retenues-pour-les-experimentations-de-monnaie-digitale-de-banque-centrale)
+
+---
+
 ## Cuban crypto for intellectual property
 
 - **5 votes** ... 1%
@@ -534,6 +562,13 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
   * ... like central banks do
 - Complicated for regulators
   * Basecoin shut down by SEC on Dec 2018
+
+---
+
+## Retail CDBC
+
+- Bank of England [new discussion paper](https://www.bankofengland.co.uk/-/media/boe/files/paper/2020/central-bank-digital-currency-opportunities-challenges-and-design.pdf) on CBDC
+- G7 Working Group on Stablecoins [recommendations on stablecoins](https://gallery.mailchimp.com/a87f67248663abe55ad9325d6/files/e4a49a28-22d8-4231-b712-fd7cc7c74afc/G7SC_Report_on_Global_Stablecoins_17_October_2019_final.pdf)
 
 ---
 
@@ -631,7 +666,12 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
 - `2,100,000,000,000,000` satoshi / `7,900,000,000` people
 - `26,582` satoshi / `100,000,000`
 - `0.00026582` BTC x `36,765.10` USD/BTC
-- $`9.77` USD per person in the world
+- `$9.77` USD per person in the world
+- BTC market cap `$653,000,000,000`.
+- ... equivalent to just `1.7%` of the world's money.
+- ... about `5.3%` of the world's gold supply.
+- if Bitcoin captures `15%` of the global currency market
+  * Total price roughly `$514,000` USD.
 
 --
 
@@ -1011,4 +1051,11 @@ Application specific integrated circuits, a.k.a. ASICs
   * Value easily identified
 - Scarcity
   * Limited circulation
+
+---
+
+## Gold vs Fiat vs Bitcoin
+
+![](img/bitcoin-properties.webp)
+
 
