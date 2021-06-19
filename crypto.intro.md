@@ -714,6 +714,12 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
 
 ---
 
+## Bookkeeping template
+
+![](img/bookkeeping.png)
+
+---
+
 ## Bitcoin - Sample transaction
 
 <small> blocktrail.com </small>
