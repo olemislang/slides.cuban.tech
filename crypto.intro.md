@@ -696,3 +696,77 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
 
 ![](img/bitcoin-google-price.png)
 
+---
+
+## Q: I'll use cryptocurrencies once I understand what they doing ...
+
+---
+
+| Cryptocurrency | Banks                     | Bookkeeper     |
+|----------------|---------------------------|----------------|
+| Address        | Card number               | Client name    |
+| Output         | Cheque (rather than cash) | Money In/Out   |
+| Input          | Cancellation              | Money Out |
+| Transaction    | Transaction               | Money In/Out   |
+| Mempool        | Order queue               | OTC sheet      |
+| Block          | -                         | Signed page    |
+| Blockchain     | Database                  | Ledger book    |
+
+---
+
+## Bookkeeping template
+
+![](img/bookkeeping.png)
+
+---
+
+## Bitcoin - Sample transaction
+
+<small> blocktrail.com </small>
+
+![](img/bitcoin.tx.c60e4dc5e69c19ff53a45954d8a8996fd9aac6fda317fd7238dec6a482c718cf.png)
+
+---
+
+## Banking system structure
+
+- Scalability
+  * Users
+  * Transactions / operations
+- Branching
+  * Hierarchy
+  * Distribution
+
+---
+
+## Functional hierarchy
+###### US bank structure
+
+![](img/banks.overview.us.png)
+
+---
+
+## China commercial banks
+###### Distribution
+
+![](img/banks.member.china.jpeg)
+
+---
+
+## US federal banks 
+###### District hierarchy
+
+![](img/banks.fed.us.png)
+
+---
+
+## Scale of the Bitcoin blockchain
+
+![](img/bitcoin.stats.png)
+
+---
+
+## Bitcoin peer-to-peer network
+
+![](img/bitcoin.p2p.jpeg)
+
