@@ -61,10 +61,17 @@ Password: meet-ups
 
 --
 
+## Outline - Day 4
+
+- I'll use cryptocurrencies once I understand what they doing ...
+- How do cryptocurrencies work?
+- What's the difference between cryptocurrency , banks and accounting bookkeping?
+
+--
+
 ## Outline - Coming soon
 
 - Q&A
-  * I'll use cryptocurrencies once I understand what they doing ...
   * Financial freedom vs Bitcoin vs Government
   * All crytpocurrencies are fraud 'cause invented by Ponzi
   * Hey Mom! John Doe offered me crypto. Is he a criminal?
