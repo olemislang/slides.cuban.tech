@@ -78,6 +78,8 @@ Password: meet-ups
 
 ## Outline - Day 6
 
+- What does the Cuban cryto law says? Implications?
+- What does the Cuban cryto law says? Implications?
 - Do I always need a wallet ? What's the best one ?
 - Can anybody confiscate my crypto ?
 - Who can see how many crypto coins I have ?
@@ -791,6 +793,100 @@ Netherlands, the rules applicable to a specific ICO depend on whether the token 
 ## Bitcoin peer-to-peer network
 
 ![](img/bitcoin.p2p.jpeg)
+
+---
+
+## What does the Cuban cryto law says? Implications?
+
+---
+
+## Cuban crypto law
+##### Text intro
+
+- First paragraph
+    * Money laundry
+    * Terrorism financing
+    * Mass destruction weapons
+- Now we are talking ... :D
+- National currency stability
+  * Control inflation
+  * Crypto under control
+
+---
+
+## Cuban crypto law
+#### el pollo del arroz con pollo
+
+- FACT : Crypto beyond Central bank control
+- Handling implies a risk
+  * ... to financial stability (think of decentralisation)
+  * Volatility
+  * "Cyberspace" data networks
+  * Decentralization is a threat
+
+---
+
+## Cuban crypto law
+#### ... back to the chicken
+
+- What's key (i.e. must haves)
+  * Minting control (none for BCC)
+  * Regulation of usage
+  * Official supervision
+  * Punishments
+  * Financing of "criminal" activities
+  * (Excessive) anonymicity and neutrality
+
+---
+
+##  Cuban crypto law
+#### Zoom to real targets
+
+- Control money and exchange market
+  * Surveillance and monitoring
+  * i.e. hard to think of community crypto assets
+- Regulation and control of all payment gateways in use in #Cuba
+- Respect Cuban legal tender
+  * iow stable coins bound 1x1 to either `CUP` or `MLC`
+- ... but open the window to viryual assets 
+
+---
+
+## Cuban crypto law
+#### Scope of the law
+
+- Decreto-Ley 362 2018/09/14 about financial (fintech) nstitutions
+- May be applied to any person
+  * ... not explicitly mentioned in the body of thhe law
+- Central bank authorisation required
+  * ... transactions performed in Cuban soil
+  * ... high volumes or finance, exchange, credit policies
+
+---
+
+## Cuban crypto law
+#### What's this all about ?
+
+- Keep crypto inside he (legal) box
+  * Crypto service providers will require a license
+    + i.e. centralisation
+  * License under current fintech institution terms Decreto ley 362/2018
+    + quite restricted ... legal person
+    + not just any legal person ...
+- Any crypto transaction has to be authorized by BCC
+
+---
+
+## Cuban crypto law
+#### Who are service providers
+
+- Anyone / anything that :
+  * does business
+  * participates in money exchange
+  * transfers transactions
+  * holds assets under custody
+  * who owns financial instruments (fintech)
+  * middlemen participating in fintech services between issuer and consumer
 
 ---
 
