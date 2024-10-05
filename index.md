@@ -111,3 +111,13 @@
 - [Introduction to FDM 3D printers](3dprint.fdm.intro.html)
   * [CubanTech meetup #67](http://meetup.cuban.tech/events/267926611/) - Havana, Cuba 2020/01/25
 
+---
+
+# CURSOS
+##### Follow our [communnity](https://fb.me/Makercitos)
+
+--
+
+- [Curso rob&oacute;tica CubanTech](courses/robotics/intro.html)
+- [Curso videojuegos Arcade CubanTech](courses/arcade/programacion1.html)
+
