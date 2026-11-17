@@ -119,5 +119,6 @@
 --
 
 - [Curso rob&oacute;tica CubanTech](courses/robotics/intro.html)
-- [Curso videojuegos Arcade CubanTech](courses/arcade/programacion1.html)
+- [Curso videojuegos Arcade CubanTech](courses/arcade/intro.html)
+- [An&aacute;lisis matem&aacute;tico I](courses/math_real_analysis/intro.html)
 
