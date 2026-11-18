@@ -221,7 +221,7 @@ Integraci&oacute;n por sustitu&oacute;n
 
 - Sean
   * I = [`a`, `b`] un intervalo finito
-  * &Phi; : [`a`, `b`] &rarr; [&Phi;(`a`), &Phi;(`b`)] una funci&oacute;n continua y monótona creciente
+  * &Phi; : [`a`, `b`] &rarr; [&Phi;(`a`), &Phi;(`b`)] una funci&oacute;n continua y mon&oacute;tona creciente
   * f : [&Phi;(`a`), &Phi;(`b`)] &rarr; &real; una funci&oacute;n integrable en [&Phi;(`a`), &Phi;(`b`)] seg&uacute;n el criterio de Riemann
 - ... entonces
   * f &ordm; &Phi; : [`a`, `b`] &rarr; &real; es integrable seg&uacute;n criterio de Riemann en [`a`, `b`]
@@ -233,7 +233,7 @@ Integraci&oacute;n por sustitu&oacute;n
 
 - Sean
   * I = [`a`, `b`] un intervalo finito
-  * &Phi; : [`a`, `b`] &rarr; [&Phi;(`a`), &Phi;(`b`)] una funci&oacute;n diferenciable y monótona creciente, tal que
+  * &Phi; : [`a`, `b`] &rarr; [&Phi;(`a`), &Phi;(`b`)] una funci&oacute;n diferenciable y mon&oacute;tona creciente, tal que
     + &Phi;' es integrable seg&uacute;n criterio de Riemann
   * f : [&Phi;(`a`), &Phi;(`b`)] &rarr; &real; una funci&oacute;n integrable en [&Phi;(`a`), &Phi;(`b`)] seg&uacute;n el criterio de Riemann
 - ... entonces
