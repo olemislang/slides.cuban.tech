@@ -76,14 +76,14 @@
                     { src: '../../plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
                     { src: '../../plugin/highlight/highlight.js', async: true, condition: function() { return !!document.querySelector( 'pre code' ); }, callback: function() { hljs.initHighlightingOnLoad(); } },
                     { src: '../../plugin/zoom-js/zoom.js', async: true },
-               //     { src: '../../plugin/math/math.js', async: true },
+                    { src: '../../plugin/math/math.js', async: true },
                     { src: '../../plugin/notes/notes.js', async: true }
                 ],
                 // Plugins
-             //   plugins: [RevealMath.KaTeX],
-             //   katex: {
-             //       local: '../../vendor/github.com/KaTeX/KaTeX'
-             //   }
+                math: {
+                    mathjax: '../../vendor/github.com/mathjax/MathJax/v2.7.8/MathJax.js',
+                    config: 'TeX-AMS_HTML-full'
+                }
             });
 
         </script>
