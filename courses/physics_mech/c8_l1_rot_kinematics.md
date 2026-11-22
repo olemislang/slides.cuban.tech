@@ -25,8 +25,9 @@
 ![Movimiento compuesto](../../img/complex_motion.png)
 
 - Se puede descomponer en
-  * traslaci&oacute;n del centro de masa
-  * rotaci&oacute;n en torno a este punto
+  * traslaci&oacute;n de un punto fijo del cuerpo
+  * rotaci&oacute;n de una l&iacute;nea de referencia
+    + entre dos puntos fijos del cuerpo
 
 ---
 
@@ -35,7 +36,7 @@
 - Todos los puntos de un cuerpo se mueven en trayectorias circulares
 - Los centros de estas circunferencias tienen que estar ubicados en una l&iacute;nea recta
   * eje de rotaci&oacute;n
-- Todas las l&iacute;neas perpendiculares al eje de rotaci&oacute;n
+- Todas las trayectorias perpendiculares al eje de rotaci&oacute;n
   * mismo &aacute;ngulo en los mismos intervalos de tiempo
 
 --
@@ -70,7 +71,7 @@
 
 ![Desplazamientos angulares sucesivos](../../img/rot_da_novector.png)
 
-- Desplazamiento angular &Phi; no es un vector
+- Desplazamiento angular &Delta;&Phi; no es un vector
 
 
 --
@@ -120,6 +121,8 @@ Rotaci&oacute;n pura. Cuerpo r&iacute;gido
 
 - Direcci&oacute;n fija del eje de rotac&oacute;n
   * **&tau;** = **r** &times; **F**
+- L&iacute;nea de acci&oacute;n
+- Brazo de la fuerza
 
 --
 
@@ -129,7 +132,7 @@ Rotaci&oacute;n pura. Cuerpo r&iacute;gido
 
 - Fuerza de gravedad
 - Se desprecia la masa de la cuerda
-- El torque cambia de direcci&oacute;n mientras oscila
+- El torque cambia de sentido mientras oscila
 
 ---
 
@@ -154,7 +157,7 @@ Rotaci&oacute;n pura. Cuerpo r&iacute;gido
 
 ---
 
-## Teorema de Steiner
+## Teorema de Huygens-Steiner
 
 ![Variacio&oacute;n seg&uacute;n el eje](../../img/rot_inertia_cm.png)
 
@@ -176,7 +179,81 @@ Rotaci&oacute;n pura. Cuerpo r&iacute;gido
 
 ## Inercia rotacional (ejemplos)
 
-![Varios ejemplos de inercia rotacional](../../img/rot_inertia_ex.png)
+Aro girando sobre su eje
+
+![Varios ejemplos de inercia rotacional](../../img/rot_i_hoop_axis.png)
+
+--
+
+## Inercia rotacional (ejemplos)
+
+Cilindro hueco o anillo girando sobre su eje
+
+![Varios ejemplos de inercia rotacional](../../img/rot_i_cyl_axis.png)
+
+--
+
+## Inercia rotacional (ejemplos)
+
+Cilindro s&oacute;lido girando sobre su eje
+
+![Varios ejemplos de inercia rotacional](../../img/rot_i_bar_axis.png)
+
+--
+
+## Inercia rotacional (ejemplos)
+
+Cilindro s&oacute;lido girando sobre su di&aacute;metro central
+
+![Varios ejemplos de inercia rotacional](../../img/rot_i_bar_center.png)
+
+--
+
+## Inercia rotacional (ejemplos)
+
+Barra fina girando sobre su di&aacute;metro central
+
+![Varios ejemplos de inercia rotacional](../../img/rot_i_rod_center.png)
+
+--
+
+## Inercia rotacional (ejemplos)
+
+Barra fina girando sobre un extremo
+
+![Varios ejemplos de inercia rotacional](../../img/rot_i_rod_end.png)
+
+--
+
+## Inercia rotacional (ejemplos)
+
+Esfera girando sobre un di&aacute;metro
+
+![Varios ejemplos de inercia rotacional](../../img/rot_i_sphere.png)
+
+--
+
+## Inercia rotacional (ejemplos)
+
+Esfera hueca o globo girando sobre un di&aacute;metro
+
+![Varios ejemplos de inercia rotacional](../../img/rot_i_baloon.png)
+
+--
+
+## Inercia rotacional (ejemplos)
+
+Aro girando sobre un di&aacute;metro
+
+![Varios ejemplos de inercia rotacional](../../img/rot_i_hoop_diam.png)
+
+--
+
+## Inercia rotacional (ejemplos)
+
+L&aacute;mina rect&aacute;ngular fina girando sobre su centro
+
+![Varios ejemplos de inercia rotacional](../../img/rot_i_plate_rect.png)
 
 ---
 
@@ -283,4 +360,61 @@ dt
 - Variaci&oacute;n de la magnitud del momento angular
 - Cambio de direcci&oacute;n del eje de rotaci&oacute;n
 
+---
+
+## Rotaci&oacute;n de una part&iacute;cula
+
+![Part&iacute;cula girando sobre eje fijo](../../img/rot_particle.png)
+
+- Momento vs velocidad angular
+  * no son paralelos
+- Diferencia con el movimiento de desplazamiento
+  * **v** siempre es paralelo a **p**
+
+---
+
+## Rotaci&oacute;n de dos part&iacute;culas
+
+![Dos part&iacute;culas girando sobre eje fijo](../../img/rot_particles_2.png)
+
+- Simetr&iacute;a de masas alrededor del eje 
+- Momento y velocidad angular paralelos 
+  * **L** = I **&omega;**
+- Extensible a s&oacute;lido r&iacute;gido
+
+---
+
+## Conservaci&oacute;n del momento angular
+
+- Hip&oacute;tesis
+  * Toque externo neto sobre un sistema es nulo
+- ... entonces
+  * El momento angular se mantiene constante
+- V&aacute;lido para cualquier componente del momento angular
+
+--
+
+## Conservaci&oacute;n del momento angular
+
+Ejemplos 
+
+![Atleta con pesos](../../img/rot_conserv_ma.png)
+
+--
+
+## Conservaci&oacute;n del momento angular
+
+Ejemplos 
+
+![Clavados](../../img/cliff_diving.png)
+
+---
+
+## Precesi&oacute;n
+
+![Trompo](../../img/rot_spinning_top.png)
+
+- Rotaci&oacute;n o desviaci&oacute;n de la direcci&oacute;n del eje
+- Fuerzas externas (e.g. gravitacional)
+- Componente perpendicular de **&tau;** respecto a **L**
 
