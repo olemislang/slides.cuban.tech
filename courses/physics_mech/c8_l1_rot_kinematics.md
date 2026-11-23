@@ -418,3 +418,188 @@ Ejemplos
 - Fuerzas externas (e.g. gravitacional)
 - Componente perpendicular de **&tau;** respecto a **L**
 
+---
+
+## Cuerpo r&iacute;gido. Caso general
+
+![Tensor de inercia](../../img/rot_inertia_tensor.webp)
+
+- **L** = &image; **&omega;*
+- &image; = <span style="font-size:125%">&Sigma;</span> m (( **R**<sup style="font-size:50%">T</sup> &middot; **R** ) **1** - **R** &middot; **R**<sup style="font-size:50%">T</sup> )
+  * Tensor de inercia
+  * **1** = matriz identidad
+
+--
+
+## Tensor de inercia
+
+<table>
+  <tr>
+    <td style="vertical-align: middle;padding: 0px;">&image; =</td>
+    <td style="font-size:550%; padding: 0px">(</td>
+    <td style="padding: 0px;vertical-align: middle;">
+      <table>
+        <tr>
+          <td>I<sub style="font-size:50%">xx</sub></td>
+          <td>I<sub style="font-size:50%">xy</sub></td>
+          <td>I<sub style="font-size:50%">xz</sub></td>
+        </tr>
+        <tr>
+          <td>I<sub style="font-size:50%">yx</sub></td>
+          <td>I<sub style="font-size:50%">yy</sub></td>
+          <td>I<sub style="font-size:50%">yz</sub></td>
+        </tr>
+        <tr>
+          <td>I<sub style="font-size:50%">zx</sub></td>
+          <td>I<sub style="font-size:50%">zy</sub></td>
+          <td>I<sub style="font-size:50%">zz</sub></td>
+        </tr>
+      </table>
+    </td>
+    <td style="font-size:550%; padding:0px">)</td>
+  </tr>
+</table>
+
+- I<sub style="font-size:50%">xx</sub> = <span style="font-size:125%">&int;</span> (y<sup style="font-size:50%">2</sup> + z<sup style="font-size:50%">2</sup>) dm
+- I<sub style="font-size:50%">yy</sub> = <span style="font-size:125%">&int;</span> (z<sup style="font-size:50%">2</sup> + x<sup style="font-size:50%">2</sup>) dm
+- I<sub style="font-size:50%">zz</sub> = <span style="font-size:125%">&int;</span> (x<sup style="font-size:50%">2</sup> + y<sup style="font-size:50%">2</sup>) dm
+- Productos de inercia
+  * I<sub style="font-size:50%">xy</sub> = I<sub style="font-size:50%">yx</sub> = - <span style="font-size:125%">&int;</span> xy dm
+  * I<sub style="font-size:50%">yz</sub> = I<sub style="font-size:50%">zy</sub> = - <span style="font-size:125%">&int;</span> yz dm
+  * I<sub style="font-size:50%">zx</sub> = I<sub style="font-size:50%">xz</sub> = - <span style="font-size:125%">&int;</span> zx dm
+
+--
+
+## Propiedades del tensor de inercia
+
+- Tensor de segundo orden
+- &image; = &image;<sup style="font-size:50%">T</sup>
+  * es sim&eacute;trico
+- Casos en que **L** es paralelo a **&omega;**
+  * **&omega;** en direcci&oacute;n de un eje principal
+  * dentro de un espacio degenerado equi-inercial
+
+---
+
+## Transformaci&oacute;n de coordenadas
+
+- Sea
+  * Q una matriz de transformaci&oacute;n ortonormal
+    + i.e **r'** = Q **r**
+- ... entonces
+  * &image;' = Q &image; Q<sup style="font-size:50%">T</sup>
+
+---
+
+## Generalizaci&oacute;n del teorema de ejes paralelos
+
+- I<sub style="font-size:50%">O</sub> = I<sub style="font-size:50%">CM</sub> + M ((**d**<sup style="font-size:50%">T</sup> &middot; **d**) **1** - **d** **d**<sup style="font-size:50%">T</sup>)
+  * O : nuevo or&iacute;gen de coordenadas
+  * I<sub style="font-size:50%">O</sub> : tensor de inercia en el sistema centrado en O
+  * I<sub style="font-size:50%">CM</sub> : tensor de inercia respecto al centro de masas
+  * M : masa total
+  * **d** : vector posici&oacute;n del centro de masas respecto a O
+  * **1** : matriz identidad
+
+--
+
+## Desplazamiento en el eje X
+
+<table>
+  <tr>
+    <td style="vertical-align: middle;padding: 0px;">
+      &image;<sub style="font-size:50%">O</sub> = &image;<sub style="font-size:50%">CM</sub> + M d<sup style="font-size:50%">2</sup>
+    </td>
+    <td style="font-size:550%; padding: 0px">(</td>
+    <td style="padding: 0px;vertical-align: middle;">
+      <table>
+        <tr>
+          <td>0</td>
+          <td>0</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>0</td>
+          <td>1</td>
+          <td>0</td>
+        </tr>
+        <tr>
+          <td>0</td>
+          <td>0</td>
+          <td>1</td>
+        </tr>
+      </table>
+    </td>
+    <td style="font-size:550%; padding:0px">)</td>
+  </tr>
+</table>
+
+--
+
+## Desplazamiento en el eje X y Y
+
+- Sea **d** = (`a`, `b`, `0`)
+
+<table>
+  <tr>
+    <td style="vertical-align: middle;padding: 0px;">
+      &image;<sub style="font-size:50%">O</sub> = &image;<sub style="font-size:50%">CM</sub> + M 
+    </td>
+    <td style="font-size:550%; padding: 0px">(</td>
+    <td style="padding: 0px;vertical-align: middle;">
+      <table>
+        <tr>
+          <td style="text-align:right">`b`<sup style="font-size:50%">2</sup></td>
+          <td style="text-align:right">-`a` `b`</td>
+          <td style="text-align:right">0</td>
+        </tr>
+        <tr>
+          <td style="text-align:right">-`a` `b`</td>
+          <td style="text-align:right">`a`<sup style="font-size:50%">2</sup></td>
+          <td style="text-align:right">0</td>
+        </tr>
+        <tr>
+          <td style="text-align:right">0</td>
+          <td style="text-align:right">0</td>
+          <td style="text-align:right">
+            `a`<sup style="font-size:50%">2</sup> + `b`<sup style="font-size:50%">2</sub>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td style="font-size:550%; padding:0px">)</td>
+  </tr>
+</table>
+
+---
+
+## Errores comunes con la rotaci&oacute;n
+
+- Tratar el momento de inercia como un escalar en rotaci&oacute;n 3D arbitraria
+- Asumir que **L** es siempre paralelo a **&omega;**
+- Olvidar el signo de menos en I<sub style="font-size:50%">xy</sub> ...
+- Pasar por alto la convenci&oacute;n del signo del producto de inercia
+- Asumir autom&aacute;ticamente que todos los productos de inercia son cero
+- Equivocaciones en el uso de la simetr&iacute;a para simplificar integrales con productos de coordenadas
+
+--
+
+## Errores comunes con la rotaci&oacute;n (cont.)
+
+- Asumir que un tensor &image; diagonal asegura **L** | **&omega;** para todo **&omega;**
+- Confundir una representaci&oacute;n diagonal con un tensor de inercia esf&eacute;rico con valores iguales
+- Calcular el momento de inercia en una direcci&oacute;n sin normalizar el vector de direcci&oacute;n
+- Olvidar que los componentes del tensor de inercia dependen de
+  * el or&iacute;gen de coordenadas
+  * la orientaci&oacute;n de los ejes
+
+--
+
+## Errores comunes con la rotaci&oacute;n (cont.)
+
+- Aplicar el teorema del eje paralelo escalar cuando lo que procede es la transformaci&oacute;n del tensor
+- Pasar por alto que el cambio del or&iacute;gen de coordenadas puede modificar entradas del tensor fuera de la diagonal
+- Concluir que hay desplazamiento del centro de masas basado en productos de inercia no nulos
+- Confundir el tensor de inercia con otros tensores
+- Olvidar que el tensor de inercia es sim&eacute;trico
+
