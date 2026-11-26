@@ -468,16 +468,93 @@ Ejemplos
   * I<sub style="font-size:50%">yz</sub> = I<sub style="font-size:50%">zy</sub> = - <span style="font-size:125%">&int;</span> yz dm
   * I<sub style="font-size:50%">zx</sub> = I<sub style="font-size:50%">xz</sub> = - <span style="font-size:125%">&int;</span> zx dm
 
---
+---
 
 ## Propiedades del tensor de inercia
 
 - Tensor de segundo orden
 - &image; = &image;<sup style="font-size:50%">T</sup>
   * es sim&eacute;trico
+- Depende (de las direcciones) del sistema de ccoordenadas
+  * si est&aacute; ligado al cuerpo, no var&iacute;a en el tiempo
 - Casos en que **L** es paralelo a **&omega;**
   * **&omega;** en direcci&oacute;n de un eje principal
   * dentro de un espacio degenerado equi-inercial
+
+---
+
+## Direcciones principales
+
+- Para cualquier cuerpo y sistema de coordenadas
+- Para (al menos) tres direcciones perpendiculares de **&omega;**
+  * **L** = &lambda; **&omega;** (&lambda; &isin; &real;)
+- Si las direcciones del sistema de coordenadas coincide con los ejes principales
+  * Sean &lambda;<sub style="font-size:50%">1</sub>, &lambda;<sub style="font-size:50%">2</sub>, &lambda;<sub style="font-size:50%">3</sub> momentos de inercia principales
+  * Tensor diagonal
+
+<table>
+  <tr>
+    <td style="vertical-align: middle;padding: 0px;">&image; =</td>
+    <td style="font-size:550%; padding: 0px">(</td>
+    <td style="padding: 0px;vertical-align: middle;">
+      <table>
+        <tr>
+          <td>&lambda;<sub style="font-size:50%">1</sub></td>
+          <td>`0`</td>
+          <td>`0`</td>
+        </tr>
+        <tr>
+          <td>`0`</td>
+          <td>&lambda;<sub style="font-size:50%">2</sub></td>
+          <td>`0`</td>
+        </tr>
+        <tr>
+          <td>`0`</td>
+          <td>`0`</td>
+          <td>&lambda;<sub style="font-size:50%">3</sub></td>
+        </tr>
+      </table>
+    </td>
+    <td style="font-size:550%; padding:0px">)</td>
+  </tr>
+</table>
+
+--
+
+## Curiosidades sobre ejes principales
+
+- Momentos de inercia principales
+  * dependen de la distribuci&oacute;n espacial de masas del cuerpo
+  * son independientes del sistema de coordenadas
+- Direcciones principales determinados para el centro de masas
+  * Ejes de rotaci&oacute;n libre
+
+--
+
+## Ejes principales para cuerpos sim&eacute;tricos
+
+- Si dos momentos principales de inercia coinciden
+  * e.g. &lambda;<sub style="font-size:50%">1</sub> = &lambda;<sub style="font-size:50%">2</sub>
+  * existen infinitos ejes principales
+    + en el plano determinado por las direcciones principales correspondientes
+    + perpendiculares a la tercera
+  * cuerpos con simetr&iacute;a axial
+- Direcciones principales de una esfera homogenea
+  * cualquier eje que pase por su centro
+
+--
+
+## Elipsoide de inercia
+
+![Elpisoide de inercia](../../img/rot_inertia_ellipsoid.png)
+
+- Momento de inercia en la direcci&oacute;n **n** (I<sub style="font-size:50%">n</sub>)
+- Sistema de coordenadas
+  * Or&iacute;gen en el centro de masas
+  * Direcciones principales: **n<sub style="font-size:50%">1</sub>**, **n<sub style="font-size:50%">2</sub>**, **n<sub style="font-size:50%">3</sub>**
+- Semiejes del elipsoide &radic;<span style="border-top: 2px solid">1 / &lambda;<sub style="font-size:50%">1</sub></span>, &radic;<span style="border-top: 2px solid">1 / &lambda;<sub style="font-size:50%">2</sub></span>, &radic;<span style="border-top: 2px solid">1 / &lambda;<sub style="font-size:50%">3</sub></span>
+- &rho;<sup style="font-size:50%">2</sup> = 1 / I<sub style="font-size:50%">n</sub>
+- Elipsoide se parece al cuerpo
 
 ---
 
@@ -570,6 +647,17 @@ Ejemplos
     <td style="font-size:550%; padding:0px">)</td>
   </tr>
 </table>
+
+---
+
+## Equilibrio seg&uacute;n fuerza de gravedad
+
+![Posiciones de equilibrio](../../img/rot_g_equilibrium.png)
+
+- Centro de gravedad en la vertical bajo el punto de suspensi&oacute;n
+- Si cuelga del centro de gravedad
+  * siempre est&aacute; en equilibrio
+  * rotaci&oacute;n libre
 
 ---
 
