@@ -36,7 +36,7 @@
     <td style="vertical-align:middle; padding-left:0px; padding-right:0px">**F** = -G</td>
     <td style="vertical-align: top; padding-left:0px; padding-right:0px">
       <table>
-        <tr style="border-bottom: 1px solid white"><td>
+        <tr style="border-bottom: 2px solid white"><td>
 m<sub style="font-size:50%">1</sub> &middot; m<sub style="font-size:50%">2</sub>
         </td></tr>
         <tr><td style="text-align:center">
@@ -47,7 +47,7 @@ r<sup style="font-size:50%">2</sup>
     <td style="font-size:250%; vertical-align:middle; padding-left:0px; padding-right:0px">(</td>
     <td style="vertical-align: top; padding-left:0px; padding-right:0px">
       <table>
-        <tr style="border-bottom: 1px solid white"><td>
+        <tr style="border-bottom: 2px solid white"><td>
 **r**
         </td></tr>
         <tr><td style="text-align:center">
@@ -76,7 +76,7 @@ g<sub style="font-size:50%">0</sub> =
     </td>
     <td style="vertical-align: top; padding-left:0px; padding-right:0px">
       <table>
-        <tr style="border-bottom: 1px solid white"><td>
+        <tr style="border-bottom: 2px solid white"><td>
 G &middot; M<sub style="font-size:50%">E</sub>
         </td></tr>
         <tr><td style="text-align:center">
@@ -162,7 +162,7 @@ U(r) = &minus;
     </td>
     <td style="vertical-align: top; padding-left:5px; padding-right:0px">
       <table>
-        <tr style="border-bottom: 1px solid white"><td>
+        <tr style="border-bottom: 2px solid white"><td>
 G &middot; M &middot; m 
         </td></tr>
         <tr><td style="text-align:center">
@@ -194,7 +194,7 @@ v =
     </td>
     <td style="vertical-align: top; border-top: 2px solid; padding-left:5px; padding-right:0px, padding-top: 0px; margin-top:0.2em">
       <table>
-        <tr style="border-bottom: 1px solid white">
+        <tr style="border-bottom: 2px solid white">
           <td style="padding-top:0px">
 2 G M
           </td>
@@ -284,7 +284,7 @@ U = &minus;
     </td>
     <td style="vertical-align: middle; padding-left:5px; padding-right:0px">
       <table>
-        <tr style="border-bottom: 1px solid white"><td>
+        <tr style="border-bottom: 2px solid white"><td>
 G &middot; m<sub style="font-size:50%">1</sub> &middot; m<sub style="font-size:50%">2</sub> 
         </td></tr>
         <tr><td style="text-align:center">
@@ -297,7 +297,7 @@ r<sub style="font-size:50%">12</sub>
     </td>
     <td style="vertical-align: middle; padding-left:5px; padding-right:0px">
       <table>
-        <tr style="border-bottom: 1px solid white"><td>
+        <tr style="border-bottom: 2px solid white"><td>
 G &middot; m<sub style="font-size:50%">2</sub> &middot; m<sub style="font-size:50%">3</sub> 
         </td></tr>
         <tr><td style="text-align:center">
@@ -310,7 +310,7 @@ r<sub style="font-size:50%">23</sub>
     </td>
     <td style="vertical-align: middle; padding-left:5px; padding-right:0px">
       <table>
-        <tr style="border-bottom: 1px solid white"><td>
+        <tr style="border-bottom: 2px solid white"><td>
 G &middot; m<sub style="font-size:50%">3</sub> &middot; m<sub style="font-size:50%">1</sub> 
         </td></tr>
         <tr><td style="text-align:center">
@@ -366,7 +366,7 @@ T<sup style="font-size:50%">2</sup> =
     </td>
     <td style="vertical-align: top; padding-left:5px; padding-right:0px">
       <table>
-        <tr style="border-bottom: 1px solid white"><td>
+        <tr style="border-bottom: 2px solid white"><td>
 4 &pi;<sup style="font-size:50%">2</sup>
         </td></tr>
         <tr><td style="text-align:center">
